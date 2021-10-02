@@ -1,310 +1,310 @@
-id,subid,imdb_title_id,title,original_title,year,genre,country,language,votes
-1,1,tt10054876,Zero Distance,Zero Distance,2020,Thriller,Saudi Arabia,Arabic,240
-2,2,tt10101774,The Party Planner,The Party Planner,2020,Thriller,USA,English,143
-3,3,tt10117768,Schwesterlein,Schwesterlein,2020,Drama,"Switzerland, Germany","German, French, English",265
-4,4,tt10126434,Scare Me,Scare Me,2020,Horror,USA,English,138
-5,5,tt10132976,Le sel des larmes,Le sel des larmes,2020,Drama,"France, Switzerland",French,210
-6,6,tt10157810,Fjols til Fjells,Fjols til Fjells,2020,Comedy,Norway,Norwegian,197
-7,7,tt10168672,Gli infedeli,Gli infedeli,2020,Comedy,Italy,Italian,856
-8,8,tt10198072,Don't Let Them In,Don't Let Them In,2020,Horror,UK,English,582
-9,9,tt10229794,Paapam Cheyyathavar Kalleriyatte,Paapam Cheyyathavar Kalleriyatte,2020,Comedy,India,Malayalam,287
-10,10,tt10230436,Yeh Ballet,Yeh Ballet,2020,Drama,India,Hindi,777
-11,11,tt10244008,Ghost,Ghost,2020,Drama,UK,English,212
-12,12,tt10251538,10 jours sans maman,10 jours sans maman,2020,Comedy,France,French,303
-13,13,tt10252330,Enkel für Anfänger,Enkel für Anfänger,2020,Comedy,Germany,German,149
-14,14,tt10264878,A Stormy Night,A Stormy Night,2020,Drama,Spain,English,168
-15,15,tt10268550,Minyan,Minyan,2020,Drama,USA,"English, Hebrew, Yiddish, Russian, German",121
-16,16,tt10272386,The Father,The Father,2020,Drama,"UK, France",English,148
-17,17,tt10275080,Agent Jade Black,Agent Jade Black,2020,Action,USA,English,181
-18,18,tt10293308,A Killer Next Door,A Killer Next Door,2020,Thriller,UK,English,197
-19,19,tt10332854,Alone,Alone,2020,Thriller,USA,English,514
-20,20,tt10349240,Mujeres Arriba,Mujeres Arriba,2020,Comedy,Chile,Spanish,353
-21,21,tt10375272,Onze Jongens in Miami,Onze Jongens in Miami,2020,Comedy,Netherlands,Dutch,224
-22,22,tt10378926,Long Lost Sister,Long Lost Sister,2020,Thriller,USA,English,126
-23,23,tt10389922,Ar Condicionado,Ar Condicionado,2020,Drama,Angola,Portuguese,118
-24,24,tt10419042,AB Aani CD,AB Aani CD,2020,Comedy,India,Marathi,115
-25,25,tt10419672,Carrion,Carrion,2020,Horror,USA,English,145
-26,26,tt10420532,Ask Tesadüfleri Sever 2,Ask Tesadüfleri Sever 2,2020,Romance,Turkey,Turkish,325
-27,27,tt10423074,The Unborn,The Unborn,2020,Horror,USA,English,192
-28,28,tt10423160,Kaiji: Fainaru gêmu,Kaiji: Fainaru gêmu,2020,Adventure,Japan,Japanese,117
+id,id,imdb_title_id,title,original_title,year,genre,country,language,votes
+1,1,tt10275080,Agent Jade Black,Agent Jade Black,2020,Action,USA,English,181
+2,2,tt10933680,The Debt Collector 2,The Debt Collector 2,2020,Action,USA,English,1219
+3,3,tt11515380,3rd Class,3rd Class,2020,Action,India,Kannada,107
+4,4,tt11576124,Rogue,Rogue,2020,Action,"South Africa, UK",English,1551
+5,5,tt11718728,The Insurrection,The Insurrection,2020,Action,USA,English,164
+6,6,tt11749480,Shooter,Shooter,2020,Action,India,Punjabi,101
+7,7,tt11765324,In the Drift,In the Drift,2020,Action,USA,"English, Spanish",204
+8,8,tt11769162,Santana,Santana,2020,Action,"South Africa, Angola",English,405
+9,9,tt3290322,The Runners,The Runners,2020,Action,USA,,155
+10,10,tt7286966,Money Plane,Money Plane,2020,Action,USA,English,725
+11,11,tt7983744,Rogue Warfare 3: Death of a Nation,Rogue Warfare 3: Death of a Nation,2020,Action,USA,English,162
+12,12,tt8011344,Asura Guru,Asura Guru,2020,Action,India,Tamil,197
+13,13,tt8972556,I Am Vengeance: Retaliation,I Am Vengeance: Retaliation,2020,Action,UK,English,403
+14,14,tt9347750,The Protector,Final Kill,2020,Action,"USA, Thailand",English,594
+15,15,tt10423160,Kaiji: Fainaru gêmu,Kaiji: Fainaru gêmu,2020,Adventure,Japan,Japanese,117
+16,16,tt11561866,Masameer the Movie,Masameer the Movie,2020,Animation,Saudi Arabia,Arabic,1623
+17,17,tt12588448,Larva Island - Il film,The Larva Island Movie,2020,Animation,South Korea,English,307
+18,18,tt8774798,100% Wolf,100% Wolf,2020,Animation,Australia,English,298
+19,19,tt11547520,Kalashnikov,Kalashnikov,2020,Biography,Russia,Russian,770
+20,20,tt6744988,Street Survivors: The True Story of the Lynyrd Skynyrd Plane Crash,Street Survivors: The True Story of the Lynyrd Skynyrd Plane Crash,2020,Biography,USA,,194
+21,21,tt10157810,Fjols til Fjells,Fjols til Fjells,2020,Comedy,Norway,Norwegian,197
+22,22,tt10168672,Gli infedeli,Gli infedeli,2020,Comedy,Italy,Italian,856
+23,23,tt10229794,Paapam Cheyyathavar Kalleriyatte,Paapam Cheyyathavar Kalleriyatte,2020,Comedy,India,Malayalam,287
+24,24,tt10251538,10 jours sans maman,10 jours sans maman,2020,Comedy,France,French,303
+25,25,tt10252330,Enkel für Anfänger,Enkel für Anfänger,2020,Comedy,Germany,German,149
+26,26,tt10349240,Mujeres Arriba,Mujeres Arriba,2020,Comedy,Chile,Spanish,353
+27,27,tt10375272,Onze Jongens in Miami,Onze Jongens in Miami,2020,Comedy,Netherlands,Dutch,224
+28,28,tt10419042,AB Aani CD,AB Aani CD,2020,Comedy,India,Marathi,115
 29,29,tt10426916,Tout simplement noir,Tout simplement noir,2020,Comedy,France,French,359
 30,30,tt10449466,Se mieletön remppa,Se mieletön remppa,2020,Comedy,Finland,Finnish,111
-31,31,tt10457128,Été 85,Été 85,2020,Drama,"France, Belgium","French, English",519
-32,32,tt10461740,The Au Pair,The Au Pair,2020,Thriller,USA,English,113
-33,33,tt10472102,Karakomik Filmler: Emanet,Karakomik Filmler: Emanet,2020,Comedy,Turkey,Turkish,4126
-34,34,tt10481184,Un figlio di nome Erasmus,Un figlio di nome Erasmus,2020,Comedy,Italy,"Italian, Portuguese",116
-35,35,tt10492998,Odio l'estate,Odio l'estate,2020,Comedy,Italy,Italian,1105
-36,36,tt10525236,A Daughter's Ordeal,A Daughter's Ordeal,2020,Thriller,USA,English,154
-37,37,tt10529644,Copper Bill,Copper Bill,2020,Thriller,USA,English,112
-38,38,tt10549312,Baba Parasi,Baba Parasi,2020,Comedy,Turkey,"Turkish, English",1876
-39,39,tt10582422,Sweet Sunshine,Sweet Sunshine,2020,Drama,,English,216
-40,40,tt10613992,Seurapeli,Seurapeli,2020,Comedy,Finland,Finnish,132
-41,41,tt10633456,Minari,Minari,2020,Drama,USA,English,167
-42,42,tt10658928,Ducobu 3,Ducobu 3,2020,Comedy,France,French,108
-43,43,tt10674930,Abominable,Abominable,2020,Horror,USA,English,591
-44,44,tt10692994,Dhamaka,Dhamaka,2020,Comedy,India,Malayalam,697
-45,45,tt10695464,The Source of Shadows,The Source of Shadows,2020,Horror,USA,English,171
-46,46,tt10696018,DNA Killer,DNA Killer,2020,Thriller,"Germany, USA",English,101
-47,47,tt10699348,Rundfunk: Jachterwachter,Rundfunk: Jachterwachter,2020,Comedy,Netherlands,Dutch,439
-48,48,tt10709742,Die Hochzeit,Die Hochzeit,2020,Comedy,Germany,German,321
-49,49,tt10735778,Nashi Kotyky,Nashi Kotyky,2020,Comedy,"Ukraine, USA, Canada","Ukrainian, Russian",682
-50,50,tt10740584,Abigail Haunting,Abigail Haunting,2020,Horror,USA,English,398
-51,51,tt10746876,Papi Sitter,Papi Sitter,2020,Comedy,France,French,132
-52,52,tt10814876,7 ore per farti innamorare,7 ore per farti innamorare,2020,Comedy,Italy,Italian,617
-53,53,tt10816484,18 regali,18 regali,2020,Drama,Italy,Italian,2355
-54,54,tt10817348,Cupid,Cupid,2020,Horror,USA,English,1142
-55,55,tt10843814,The Candy Witch,The Candy Witch,2020,Horror,,,105
-56,56,tt10880084,The Warrant,The Warrant,2020,Western,USA,English,213
-57,57,tt10927554,Klovn the Final,Klovn the Final,2020,Comedy,Denmark,Danish,1253
-58,58,tt10933680,The Debt Collector 2,The Debt Collector 2,2020,Action,USA,English,1219
-59,59,tt10937434,Ultras,Ultras,2020,Drama,Italy,Italian,3796
-60,60,tt10937670,Figli,Figli,2020,Comedy,Italy,Italian,952
-61,61,tt10944744,The Escape from Auschwitz,The Escape from Auschwitz,2020,Drama,UK,English,141
-62,62,tt10951056,D.N.A.: Decisamente non adatti,D.N.A.: Decisamente non adatti,2020,Comedy,Italy,Italian,207
-63,63,tt10952782,Malasaña 32,Malasaña 32,2020,Horror,Spain,Spanish,1178
-64,64,tt10958102,Our Scripted Life,Our Scripted Life,2020,Comedy,USA,English,252
-65,65,tt10964430,Thappad,Thappad,2020,Drama,India,Hindi,12934
-66,66,tt10964468,Shakuntala Devi,Shakuntala Devi,2020,Drama,India,Hindi,6599
-67,67,tt10966156,Lucky,Lucky,2020,Comedy,France,French,172
-68,68,tt10991188,World Famous Lover,World Famous Lover,2020,Romance,India,Telugu,1433
-69,69,tt10994102,Lies For Rent,Lies For Rent,2020,Thriller,USA,English,111
-70,70,tt10994688,The Binge,The Binge,2020,Comedy,USA,English,1118
-71,71,tt11010804,Jesus,Jesus,2020,Drama,,,230
-72,72,tt11018402,Filles de joie,Filles de joie,2020,Drama,"Belgium, France",French,164
-73,73,tt11024568,Savaari,Savaari,2020,Romance,India,Telugu,106
-74,74,tt11024608,Johaar,Johaar,2020,Drama,India,Telugu,199
-75,75,tt11027850,Hacked,Hacked,2020,Thriller,India,Hindi,828
-76,76,tt11041466,Oka Chinna Viramam,Oka Chinna Viramam,2020,Thriller,India,Telugu,248
-77,77,tt11051580,A Day & A Night,A Day & A Night,2020,Drama,Egypt,Arabic,140
-78,78,tt11079540,The Will,The Will,2020,Romance,USA,English,352
-79,79,tt11086254,The Alpha Test,The Alpha Test,2020,Sci-Fi,USA,English,257
-80,80,tt11127512,Heartbeat,Heartbeat,2020,Thriller,USA,,939
-81,81,tt11143108,Oh My Kadavule,Oh My Kadavule,2020,Comedy,India,Tamil,2112
-82,82,tt11157218,Valayam,Valayam,2020,Mystery,India,Telugu,104
-83,83,tt11164090,The Moving on Phase,The Moving on Phase,2020,Comedy,USA,English,172
-84,84,tt11173106,Sufna,Sufna,2020,Romance,India,Punjabi,1088
-85,85,tt11192054,Suriname,Suriname,2020,Crime,Netherlands,Dutch,168
-86,86,tt11199514,The Haunting of Alcatraz,The Haunting of Alcatraz,2020,Horror,UK,English,111
-87,87,tt11216782,Lockup,Lockup,2020,Drama,India,Tamil,175
-88,88,tt11235142,Dia,Dia,2020,Drama,India,Kannada,3292
-89,89,tt11239374,Scumbag,Scumbag,2020,Thriller,Slovakia,Slovak,185
-90,90,tt11240506,W lesie dzis nie zasnie nikt,W lesie dzis nie zasnie nikt,2020,Horror,Poland,Polish,1214
-91,91,tt11261270,Zengo,Zengo,2020,Comedy,Turkey,Turkish,484
-92,92,tt11280912,Maarjaara Oru Kalluvacha Nuna,Maarjaara Oru Kalluvacha Nuna,2020,Drama,India,Malayalam,347
-93,93,tt11316854,Gabriel's Inferno,Gabriel's Inferno,2020,Romance,USA,,1561
-94,94,tt11318044,Dhurala,Dhurala,2020,Drama,India,Marathi,104
-95,95,tt11318228,Vaanam Kottattum,Vaanam Kottattum,2020,Drama,India,Tamil,425
-96,96,tt11343416,Acrylic,Acrylic,2020,Comedy,USA,,1541
-97,97,tt11394158,Miss Juneteenth,Miss Juneteenth,2020,Drama,USA,,529
-98,98,tt11449072,Kartoffelsalat 3 - Das Musical,Kartoffelsalat 3 - Das Musical,2020,Musical,Germany,German,2374
-99,99,tt11457262,Choricha Mamla,Choricha Mamla,2020,Comedy,India,Marathi,178
-100,100,tt11493046,Pilsata pi upis,Pilsata pi upis,2020,Drama,"Latvia, Czech Republic, Lithuania","Latvian, German, Russian, Yiddish",188
-101,101,tt11497346,Malgudi Days,Malgudi Days,2020,Drama,India,Kannada,153
-102,102,tt11497480,Asur,Asur,2020,Drama,India,Bengali,682
-103,103,tt11497808,Sraboner Dhara,Sraboner Dhara,2020,Drama,India,Bengali,131
-104,104,tt11506054,Uma Maheswara Ugra Roopasya,Uma Maheswara Ugra Roopasya,2020,Drama,India,Telugu,898
-105,105,tt11506284,Padre no hay más que uno 2: La llegada de la suegra,Padre no hay más que uno 2: La llegada de la suegra,2020,Comedy,Spain,Spanish,177
-106,106,tt11515380,3rd Class,3rd Class,2020,Action,India,Kannada,107
-107,107,tt11527964,Bayi Toplantisi,Bayi Toplantisi,2020,Comedy,Turkey,Turkish,2224
-108,108,tt11529726,Laz Kit,Laz Kit,2020,Comedy,Turkey,Turkish,521
-109,109,tt11534356,Masallardan Geriye Kalan,Masallardan Geriye Kalan,2020,Romance,Turkey,Turkish,295
-110,110,tt11536072,Gauthamante Radham,Gauthamante Radham,2020,Comedy,India,Malayalam,404
-111,111,tt11542194,Kaaal,Kaaal,2020,Horror,India,Marathi,486
-112,112,tt11547496,Camp Blood 8: Revelations,Camp Blood 8: Revelations,2020,Horror,USA,English,114
-113,113,tt11547520,Kalashnikov,Kalashnikov,2020,Biography,Russia,Russian,770
-114,114,tt11559138,El cazador,El cazador,2020,Drama,Argentina,Spanish,163
-115,115,tt11561866,Masameer the Movie,Masameer the Movie,2020,Animation,Saudi Arabia,Arabic,1623
-116,116,tt11566164,Secret Zoo,Secret Zoo,2020,Comedy,South Korea,Korean,548
-117,117,tt11576124,Rogue,Rogue,2020,Action,"South Africa, UK",English,1551
-118,118,tt11584724,Loco Por Vos,Loco Por Vos,2020,Comedy,Colombia,Spanish,229
-119,119,tt11617492,Orbius,Orbius,2020,Fantasy,Russia,None,225
-120,120,tt11634320,Expectant,Expectant,2020,Thriller,USA,English,111
-121,121,tt11650674,Ouija Shark,Ouija Shark,2020,Horror,,English,297
-122,122,tt11651604,Silencer,Silencer,2020,Drama,India,Malayalam,466
-123,123,tt11651780,Choked: Money Talks,Choked,2020,Drama,India,Hindi,4215
-124,124,tt11685322,Sweet Thing,Sweet Thing,2020,Drama,USA,English,279
-125,125,tt11691696,Shukranu,Shukranu,2020,Drama,India,Hindi,500
-126,126,tt11697690,Domangchin yeoja,Domangchin yeoja,2020,Drama,South Korea,Korean,234
-127,127,tt11697820,Rizi,Rizi,2020,Drama,"Taiwan, France",Mandarin,281
-128,128,tt11697832,DAU. Natasha,DAU. Natasha,2020,Drama,"Germany, Ukraine, UK, Russia","Russian, Ukrainian, English",649
-129,129,tt11697844,Sheytan vojud nadarad,Sheytan vojud nadarad,2020,Drama,"Germany, Iran, Czech Republic","Persian, German",407
-130,130,tt11718728,The Insurrection,The Insurrection,2020,Action,USA,English,164
-131,131,tt11730940,Bamfaad,Bamfaad,2020,Romance,India,Hindi,1522
-132,132,tt11737772,Chal Mera Putt 2,Chal Mera Putt 2,2020,Drama,India,Punjabi,152
-133,133,tt11743900,Cookie,Cookie,2020,Horror,India,Hindi,146
-134,134,tt11749480,Shooter,Shooter,2020,Action,India,Punjabi,101
-135,135,tt11750282,Voces,Voces,2020,Horror,Spain,Spanish,112
-136,136,tt11765278,Collision Earth,Collision Earth,2020,Sci-Fi,USA,English,288
-137,137,tt11765324,In the Drift,In the Drift,2020,Action,USA,"English, Spanish",204
-138,138,tt11769162,Santana,Santana,2020,Action,"South Africa, Angola",English,405
-139,139,tt11771036,Exodus,Exodus,2020,Drama,Iran,Persian,324
-140,140,tt11774804,Court Martial,Court Martial,2020,Drama,India,Hindi,119
-141,141,tt11777460,Sri Bharatha Baahubali,Sri Bharatha Baahubali,2020,Comedy,India,Kannada,483
+31,31,tt10472102,Karakomik Filmler: Emanet,Karakomik Filmler: Emanet,2020,Comedy,Turkey,Turkish,4126
+32,32,tt10481184,Un figlio di nome Erasmus,Un figlio di nome Erasmus,2020,Comedy,Italy,"Italian, Portuguese",116
+33,33,tt10492998,Odio l'estate,Odio l'estate,2020,Comedy,Italy,Italian,1105
+34,34,tt10549312,Baba Parasi,Baba Parasi,2020,Comedy,Turkey,"Turkish, English",1876
+35,35,tt10613992,Seurapeli,Seurapeli,2020,Comedy,Finland,Finnish,132
+36,36,tt10658928,Ducobu 3,Ducobu 3,2020,Comedy,France,French,108
+37,37,tt10692994,Dhamaka,Dhamaka,2020,Comedy,India,Malayalam,697
+38,38,tt10699348,Rundfunk: Jachterwachter,Rundfunk: Jachterwachter,2020,Comedy,Netherlands,Dutch,439
+39,39,tt10709742,Die Hochzeit,Die Hochzeit,2020,Comedy,Germany,German,321
+40,40,tt10735778,Nashi Kotyky,Nashi Kotyky,2020,Comedy,"Ukraine, USA, Canada","Ukrainian, Russian",682
+41,41,tt10746876,Papi Sitter,Papi Sitter,2020,Comedy,France,French,132
+42,42,tt10814876,7 ore per farti innamorare,7 ore per farti innamorare,2020,Comedy,Italy,Italian,617
+43,43,tt10927554,Klovn the Final,Klovn the Final,2020,Comedy,Denmark,Danish,1253
+44,44,tt10937670,Figli,Figli,2020,Comedy,Italy,Italian,952
+45,45,tt10951056,D.N.A.: Decisamente non adatti,D.N.A.: Decisamente non adatti,2020,Comedy,Italy,Italian,207
+46,46,tt10958102,Our Scripted Life,Our Scripted Life,2020,Comedy,USA,English,252
+47,47,tt10966156,Lucky,Lucky,2020,Comedy,France,French,172
+48,48,tt10994688,The Binge,The Binge,2020,Comedy,USA,English,1118
+49,49,tt11143108,Oh My Kadavule,Oh My Kadavule,2020,Comedy,India,Tamil,2112
+50,50,tt11164090,The Moving on Phase,The Moving on Phase,2020,Comedy,USA,English,172
+51,51,tt11261270,Zengo,Zengo,2020,Comedy,Turkey,Turkish,484
+52,52,tt11343416,Acrylic,Acrylic,2020,Comedy,USA,,1541
+53,53,tt11457262,Choricha Mamla,Choricha Mamla,2020,Comedy,India,Marathi,178
+54,54,tt11506284,Padre no hay más que uno 2: La llegada de la suegra,Padre no hay más que uno 2: La llegada de la suegra,2020,Comedy,Spain,Spanish,177
+55,55,tt11527964,Bayi Toplantisi,Bayi Toplantisi,2020,Comedy,Turkey,Turkish,2224
+56,56,tt11529726,Laz Kit,Laz Kit,2020,Comedy,Turkey,Turkish,521
+57,57,tt11536072,Gauthamante Radham,Gauthamante Radham,2020,Comedy,India,Malayalam,404
+58,58,tt11566164,Secret Zoo,Secret Zoo,2020,Comedy,South Korea,Korean,548
+59,59,tt11584724,Loco Por Vos,Loco Por Vos,2020,Comedy,Colombia,Spanish,229
+60,60,tt11777460,Sri Bharatha Baahubali,Sri Bharatha Baahubali,2020,Comedy,India,Kannada,483
+61,61,tt11812338,Honest Candidate,Honest Candidate,2020,Comedy,,,180
+62,62,tt11833648,Shams al-Maaref,Shams al-Maaref,2020,Comedy,Saudi Arabia,Arabic,1075
+63,63,tt12323842,Gina Brillon: The Floor is Lava,Gina Brillon: The Floor is Lava,2020,Comedy,USA,English,107
+64,64,tt12344410,French Biriyani,French Biriyani,2020,Comedy,India,Kannada,751
+65,65,tt12395462,Groeten van Gerri,Groeten van Gerri,2020,Comedy,Netherlands,Dutch,492
+66,66,tt12764048,Steve-O: Gnarly,Steve-O: Gnarly,2020,Comedy,USA,English,178
+67,67,tt2989692,Fat Ass Zombies,Fat Ass Zombies,2020,Comedy,USA,,148
+68,68,tt3734580,Ghoomketu,Ghoomketu,2020,Comedy,India,Hindi,2587
+69,69,tt4344624,Deported,Deported,2020,Comedy,USA,English,221
+70,70,tt5079362,Reality Queen!,Reality Queen!,2020,Comedy,USA,English,217
+71,71,tt5873892,Yahan Sabhi Gyani Hain,Yahan Sabhi Gyani Hain,2020,Comedy,India,Hindi,206
+72,72,tt6833470,The Swing of Things,The Swing of Things,2020,Comedy,USA,English,570
+73,73,tt6902000,Make America White Again,Make America White Again,2020,Comedy,USA,"English, Mandarin, Russian, Spanish",109
+74,74,tt7263182,Bob Rubin: Oddities and Rarities,Bob Rubin: Oddities and Rarities,2020,Comedy,USA,English,141
+75,75,tt7311770,The Bet,The Bet,2020,Comedy,"Canada, UK",English,122
+76,76,tt7400952,Vampire Dad,Vampire Dad,2020,Comedy,,English,118
+77,77,tt7453044,Holly Slept Over,Holly Slept Over,2020,Comedy,,English,789
+78,78,tt7541838,Sex and the Future,Sex and the Future,2020,Comedy,USA,English,248
+79,79,tt7661376,2 Minutes of Fame,2 Minutes of Fame,2020,Comedy,USA,English,273
+80,80,tt7749142,Die Känguru-Chroniken,Die Känguru-Chroniken,2020,Comedy,Germany,"German, English",1306
+81,81,tt8145202,The F**k-It List - La lista dei fanculo,The F**k-It List,2020,Comedy,USA,English,3515
+82,82,tt8200456,Cindy La Regia,Cindy La Regia,2020,Comedy,Mexico,Spanish,1052
+83,83,tt8560172,The Very Excellent Mr. Dundee,The Very Excellent Mr. Dundee,2020,Comedy,"USA, Australia",English,617
+84,84,tt8633560,Lazy Susan,Lazy Susan,2020,Comedy,USA,English,392
+85,85,tt8976664,My Boyfriend's Meds,My Boyfriend's Meds,2020,Comedy,Mexico,Spanish,289
+86,86,tt9014248,Rebelión de los Godínez,Rebelión de los Godínez,2020,Comedy,Mexico,Spanish,327
+87,87,tt9059704,An American Pickle,An American Pickle,2020,Comedy,USA,"English, Hebrew",9886
+88,88,tt9207700,Made in Italy,Made in Italy,2020,Comedy,"UK, Italy",English,1455
+89,89,tt9208444,Impractical Jokers: The Movie,Impractical Jokers: The Movie,2020,Comedy,USA,English,4105
+90,90,tt9248952,Jawaani Jaaneman,Jawaani Jaaneman,2020,Comedy,India,Hindi,5378
+91,91,tt9303772,Divorce Club,Divorce Club,2020,Comedy,France,French,153
+92,92,tt9359344,"Ti amo, imbecille","Te quiero, imbécil",2020,Comedy,Spain,Spanish,2215
+93,93,tt9372172,Forte,Forte,2020,Comedy,France,French,330
+94,94,tt9568486,Mine de rien,Mine de rien,2020,Comedy,France,French,111
+95,95,tt9908390,Le lion,Le lion,2020,Comedy,"France, Belgium",French,398
+96,96,tt11192054,Suriname,Suriname,2020,Crime,Netherlands,Dutch,168
+97,97,tt4875960,1 Interrogation,1 Interrogation,2020,Crime,USA,"English, Russian",1036
+98,98,tt8241876,5th Borough,5th Borough,2020,Crime,USA,English,1178
+99,99,tt10117768,Schwesterlein,Schwesterlein,2020,Drama,"Switzerland, Germany","German, French, English",265
+100,100,tt10132976,Le sel des larmes,Le sel des larmes,2020,Drama,"France, Switzerland",French,210
+101,101,tt10230436,Yeh Ballet,Yeh Ballet,2020,Drama,India,Hindi,777
+102,102,tt10244008,Ghost,Ghost,2020,Drama,UK,English,212
+103,103,tt10264878,A Stormy Night,A Stormy Night,2020,Drama,Spain,English,168
+104,104,tt10268550,Minyan,Minyan,2020,Drama,USA,"English, Hebrew, Yiddish, Russian, German",121
+105,105,tt10272386,The Father,The Father,2020,Drama,"UK, France",English,148
+106,106,tt10389922,Ar Condicionado,Ar Condicionado,2020,Drama,Angola,Portuguese,118
+107,107,tt10457128,Été 85,Été 85,2020,Drama,"France, Belgium","French, English",519
+108,108,tt10582422,Sweet Sunshine,Sweet Sunshine,2020,Drama,,English,216
+109,109,tt10633456,Minari,Minari,2020,Drama,USA,English,167
+110,110,tt10816484,18 regali,18 regali,2020,Drama,Italy,Italian,2355
+111,111,tt10937434,Ultras,Ultras,2020,Drama,Italy,Italian,3796
+112,112,tt10944744,The Escape from Auschwitz,The Escape from Auschwitz,2020,Drama,UK,English,141
+113,113,tt10964430,Thappad,Thappad,2020,Drama,India,Hindi,12934
+114,114,tt10964468,Shakuntala Devi,Shakuntala Devi,2020,Drama,India,Hindi,6599
+115,115,tt11010804,Jesus,Jesus,2020,Drama,,,230
+116,116,tt11018402,Filles de joie,Filles de joie,2020,Drama,"Belgium, France",French,164
+117,117,tt11024608,Johaar,Johaar,2020,Drama,India,Telugu,199
+118,118,tt11051580,A Day & A Night,A Day & A Night,2020,Drama,Egypt,Arabic,140
+119,119,tt11216782,Lockup,Lockup,2020,Drama,India,Tamil,175
+120,120,tt11235142,Dia,Dia,2020,Drama,India,Kannada,3292
+121,121,tt11280912,Maarjaara Oru Kalluvacha Nuna,Maarjaara Oru Kalluvacha Nuna,2020,Drama,India,Malayalam,347
+122,122,tt11318044,Dhurala,Dhurala,2020,Drama,India,Marathi,104
+123,123,tt11318228,Vaanam Kottattum,Vaanam Kottattum,2020,Drama,India,Tamil,425
+124,124,tt11394158,Miss Juneteenth,Miss Juneteenth,2020,Drama,USA,,529
+125,125,tt11493046,Pilsata pi upis,Pilsata pi upis,2020,Drama,"Latvia, Czech Republic, Lithuania","Latvian, German, Russian, Yiddish",188
+126,126,tt11497346,Malgudi Days,Malgudi Days,2020,Drama,India,Kannada,153
+127,127,tt11497480,Asur,Asur,2020,Drama,India,Bengali,682
+128,128,tt11497808,Sraboner Dhara,Sraboner Dhara,2020,Drama,India,Bengali,131
+129,129,tt11506054,Uma Maheswara Ugra Roopasya,Uma Maheswara Ugra Roopasya,2020,Drama,India,Telugu,898
+130,130,tt11559138,El cazador,El cazador,2020,Drama,Argentina,Spanish,163
+131,131,tt11651604,Silencer,Silencer,2020,Drama,India,Malayalam,466
+132,132,tt11651780,Choked: Money Talks,Choked,2020,Drama,India,Hindi,4215
+133,133,tt11685322,Sweet Thing,Sweet Thing,2020,Drama,USA,English,279
+134,134,tt11691696,Shukranu,Shukranu,2020,Drama,India,Hindi,500
+135,135,tt11697690,Domangchin yeoja,Domangchin yeoja,2020,Drama,South Korea,Korean,234
+136,136,tt11697820,Rizi,Rizi,2020,Drama,"Taiwan, France",Mandarin,281
+137,137,tt11697832,DAU. Natasha,DAU. Natasha,2020,Drama,"Germany, Ukraine, UK, Russia","Russian, Ukrainian, English",649
+138,138,tt11697844,Sheytan vojud nadarad,Sheytan vojud nadarad,2020,Drama,"Germany, Iran, Czech Republic","Persian, German",407
+139,139,tt11737772,Chal Mera Putt 2,Chal Mera Putt 2,2020,Drama,India,Punjabi,152
+140,140,tt11771036,Exodus,Exodus,2020,Drama,Iran,Persian,324
+141,141,tt11774804,Court Martial,Court Martial,2020,Drama,India,Hindi,119
 142,142,tt11779616,Shivaji Surathkal,Shivaji Surathkal,2020,Drama,India,Kannada,369
-143,143,tt11812338,Honest Candidate,Honest Candidate,2020,Comedy,,,180
-144,144,tt11833648,Shams al-Maaref,Shams al-Maaref,2020,Comedy,Saudi Arabia,Arabic,1075
-145,145,tt11880890,Joshua,Joshua,2020,Drama,India,Malayalam,471
-146,146,tt11908062,Zima,Zima,2020,Drama,Russia,Russian,823
-147,147,tt11922698,Killer Dream Home,Killer Dream Home,2020,Thriller,USA,English,197
-148,148,tt12142012,5G Zombies,5G Zombies,2020,Horror,,English,294
-149,149,tt12158538,Cry Havoc,Cry Havoc,2020,Horror,USA,English,136
-150,150,tt12159766,Trigger Points,Trigger Points,2020,Sci-Fi,UK,English,175
-151,151,tt12256440,DAU. Tri diya,DAU. Tri diya,2020,Drama,"Germany, Ukraine, UK, Russia","Russian, Greek",119
-152,152,tt12283788,Sinful,Sinful,2020,Thriller,USA,,1041
-153,153,tt12323842,Gina Brillon: The Floor is Lava,Gina Brillon: The Floor is Lava,2020,Comedy,USA,English,107
-154,154,tt12344410,French Biriyani,French Biriyani,2020,Comedy,India,Kannada,751
-155,155,tt12344428,Law,Law,2020,Thriller,India,Kannada,230
-156,156,tt12395462,Groeten van Gerri,Groeten van Gerri,2020,Comedy,Netherlands,Dutch,492
-157,157,tt12588448,Larva Island - Il film,The Larva Island Movie,2020,Animation,South Korea,English,307
-158,158,tt12642180,Ram Singh Charlie,Ram Singh Charlie,2020,Drama,India,Hindi,436
-159,159,tt12764048,Steve-O: Gnarly,Steve-O: Gnarly,2020,Comedy,USA,English,178
-160,160,tt12839816,Asalu Em Jarigindhante,Asalu Em Jarigindhante,2020,Drama,India,Telugu,647
-161,161,tt1715344,Quad,Quad,2020,Drama,USA,,112
-162,162,tt1929297,Last Moment of Clarity,Last Moment of Clarity,2020,Thriller,USA,English,1233
-163,163,tt1964995,Penance Lane,Penance Lane,2020,Horror,USA,,828
-164,164,tt2197936,Fatima,Fatima,2020,Drama,"Portugal, USA",English,479
-165,165,tt2222052,My Salinger Year,My Salinger Year,2020,Drama,"Canada, Ireland",English,154
-166,166,tt2819446,False Colors,False Colors,2020,Thriller,USA,English,143
-167,167,tt2989692,Fat Ass Zombies,Fat Ass Zombies,2020,Comedy,USA,,148
-168,168,tt3155342,All Together Now,All Together Now,2020,Drama,USA,English,1221
-169,169,tt3155720,There's No Such Thing as Vampires,There's No Such Thing as Vampires,2020,Horror,USA,English,320
-170,170,tt3165210,Darcy,Darcy,2020,Drama,USA,English,235
-171,171,tt3290322,The Runners,The Runners,2020,Action,USA,,155
-172,172,tt3734580,Ghoomketu,Ghoomketu,2020,Comedy,India,Hindi,2587
-173,173,tt3993886,All Day and a Night,All Day and a Night,2020,Drama,USA,English,2598
-174,174,tt4257940,The Lost Husband,The Lost Husband,2020,Romance,USA,English,2234
-175,175,tt4271826,18% Grey,18% Grey,2020,Drama,"Bulgaria, Germany, Republic of North Macedonia, Serbia, Belgium","English, Bulgarian, German",100
-176,176,tt4344624,Deported,Deported,2020,Comedy,USA,English,221
-177,177,tt4875960,1 Interrogation,1 Interrogation,2020,Crime,USA,"English, Russian",1036
-178,178,tt4907206,Turnt,Turnt,2020,Drama,USA,English,718
-179,179,tt5079362,Reality Queen!,Reality Queen!,2020,Comedy,USA,English,217
-180,180,tt5241482,Talita,Talita,2020,Drama,"USA, Romania",English,153
-181,181,tt5244812,Riding Faith,Riding Faith,2020,Family,USA,English,131
-182,182,tt5439812,Zola,Zola,2020,Drama,USA,English,154
-183,183,tt5617312,The Bay of Silence,The Bay of Silence,2020,Thriller,UK,"English, French, Italian",768
-184,184,tt5759590,Angels Fallen,Angels Fallen,2020,Horror,USA,English,835
-185,185,tt5792124,What the Night Can Do,What the Night Can Do,2020,Drama,USA,English,125
-186,186,tt5797184,Escape from Pretoria,Escape from Pretoria,2020,Thriller,"UK, Australia, USA, South Africa",English,15305
-187,187,tt5815420,2 Graves in the Desert,2 Graves in the Desert,2020,Thriller,France,English,190
-188,188,tt5848326,Over-the-Rhine,Over-the-Rhine,2020,Drama,USA,English,105
-189,189,tt5873892,Yahan Sabhi Gyani Hain,Yahan Sabhi Gyani Hain,2020,Comedy,India,Hindi,206
-190,190,tt6409856,Alien Outbreak,Alien Outbreak,2020,Sci-Fi,UK,English,322
-191,191,tt6470924,Berlin Alexanderplatz,Berlin Alexanderplatz,2020,Drama,"Germany, Netherlands, France, Canada","German, English",814
-192,192,tt6744988,Street Survivors: The True Story of the Lynyrd Skynyrd Plane Crash,Street Survivors: The True Story of the Lynyrd Skynyrd Plane Crash,2020,Biography,USA,,194
-193,193,tt6818118,Jumbo,Jumbo,2020,Drama,"France, Belgium, Luxembourg",French,320
-194,194,tt6833470,The Swing of Things,The Swing of Things,2020,Comedy,USA,English,570
-195,195,tt6844138,Coven,Coven,2020,Horror,USA,English,118
-196,196,tt6857804,Stolen Season,Stolen Season,2020,Drama,Canada,English,716
-197,197,tt6876854,The Brink,The Brink,2020,Sci-Fi,UK,English,770
-198,198,tt6882604,Archive,Archive,2020,Sci-Fi,"UK, Hungary, USA",English,4804
-199,199,tt6902000,Make America White Again,Make America White Again,2020,Comedy,USA,"English, Mandarin, Russian, Spanish",109
-200,200,tt7159566,Transference: Escape the Dark,Transference: Escape the Dark,2020,Sci-Fi,Canada,English,273
-201,201,tt7263040,La Marca del Demonio,La Marca del Demonio,2020,Horror,Mexico,Spanish,1633
-202,202,tt7263182,Bob Rubin: Oddities and Rarities,Bob Rubin: Oddities and Rarities,2020,Comedy,USA,English,141
-203,203,tt7286966,Money Plane,Money Plane,2020,Action,USA,English,725
-204,204,tt7294150,Ba Bai,Ba Bai,2020,War,China,Chinese,387
-205,205,tt7311770,The Bet,The Bet,2020,Comedy,"Canada, UK",English,122
-206,206,tt7334158,Sulphur and White,Sulphur and White,2020,Drama,UK,English,105
-207,207,tt7335796,Behind You,Behind You,2020,Horror,USA,English,870
-208,208,tt7397176,Krudttønden,Krudttønden,2020,Drama,Denmark,Danish,193
-209,209,tt7400952,Vampire Dad,Vampire Dad,2020,Comedy,,English,118
-210,210,tt7411112,The Clearing,The Clearing,2020,Horror,USA,English,429
-211,211,tt7445682,Star Light,Star Light,2020,Horror,USA,English,151
-212,212,tt7453044,Holly Slept Over,Holly Slept Over,2020,Comedy,,English,789
-213,213,tt7535290,Lei è la mia pazzia,Stalker's Prey 2,2020,Thriller,USA,English,150
-214,214,tt7541838,Sex and the Future,Sex and the Future,2020,Comedy,USA,English,248
-215,215,tt7551824,The Berlin Bride,The Berlin Bride,2020,Fantasy,"USA, Germany",German,151
-216,216,tt7562334,Lady Driver,Lady Driver,2020,Sport,USA,English,700
-217,217,tt7661376,2 Minutes of Fame,2 Minutes of Fame,2020,Comedy,USA,English,273
-218,218,tt7697348,XL: The Temptation of Christ,XL: The Temptation of Christ,2020,Drama,USA,English,126
-219,219,tt7711170,Alone,Alone,2020,Thriller,USA,English,246
-220,220,tt7749142,Die Känguru-Chroniken,Die Känguru-Chroniken,2020,Comedy,Germany,"German, English",1306
-221,221,tt7772582,Mai raramente a volte sempre,Never Rarely Sometimes Always,2020,Drama,"UK, USA",English,6245
-222,222,tt7838654,Finding Grace,Finding Grace,2020,Drama,USA,English,100
-223,223,tt7918240,Ánima,Ánima,2020,Thriller,Mexico,Spanish,205
-224,224,tt7922944,The Mentor,The Mentor,2020,Thriller,USA,English,113
-225,225,tt7933796,Disclosure,Disclosure,2020,Drama,Australia,English,128
-226,226,tt7939428,10 cose da fare prima di lasciarsi,10 Things We Should Do Before We Break Up,2020,Romance,USA,English,486
-227,227,tt7983744,Rogue Warfare 3: Death of a Nation,Rogue Warfare 3: Death of a Nation,2020,Action,USA,English,162
-228,228,tt7996520,Lone Wolf Survival Kit,Lone Wolf Survival Kit,2020,Thriller,USA,,126
-229,229,tt8006374,Baba Yaga: Terror of the Dark Forest,Yaga. Koshmar tyomnogo lesa,2020,Horror,Russia,Russian,719
-230,230,tt8011344,Asura Guru,Asura Guru,2020,Action,India,Tamil,197
-231,231,tt8042112,Gypsy,Gypsy,2020,Drama,India,Tamil,485
-232,232,tt8045906,Words on Bathroom Walls,Words on Bathroom Walls,2020,Drama,USA,English,225
-233,233,tt8064418,Assassin 33 A.D.,Assassin 33 A.D.,2020,Sci-Fi,USA,English,956
-234,234,tt8090624,The Millennial Killer,The Millennial Killer,2020,Horror,UK,English,183
-235,235,tt8134980,Battlefield 2025,Battlefield 2025,2020,Sci-Fi,USA,English,132
-236,236,tt8145202,The F**k-It List - La lista dei fanculo,The F**k-It List,2020,Comedy,USA,English,3515
+143,143,tt11880890,Joshua,Joshua,2020,Drama,India,Malayalam,471
+144,144,tt11908062,Zima,Zima,2020,Drama,Russia,Russian,823
+145,145,tt12256440,DAU. Tri diya,DAU. Tri diya,2020,Drama,"Germany, Ukraine, UK, Russia","Russian, Greek",119
+146,146,tt12642180,Ram Singh Charlie,Ram Singh Charlie,2020,Drama,India,Hindi,436
+147,147,tt12839816,Asalu Em Jarigindhante,Asalu Em Jarigindhante,2020,Drama,India,Telugu,647
+148,148,tt1715344,Quad,Quad,2020,Drama,USA,,112
+149,149,tt2197936,Fatima,Fatima,2020,Drama,"Portugal, USA",English,479
+150,150,tt2222052,My Salinger Year,My Salinger Year,2020,Drama,"Canada, Ireland",English,154
+151,151,tt3155342,All Together Now,All Together Now,2020,Drama,USA,English,1221
+152,152,tt3165210,Darcy,Darcy,2020,Drama,USA,English,235
+153,153,tt3993886,All Day and a Night,All Day and a Night,2020,Drama,USA,English,2598
+154,154,tt4271826,18% Grey,18% Grey,2020,Drama,"Bulgaria, Germany, Republic of North Macedonia, Serbia, Belgium","English, Bulgarian, German",100
+155,155,tt4907206,Turnt,Turnt,2020,Drama,USA,English,718
+156,156,tt5241482,Talita,Talita,2020,Drama,"USA, Romania",English,153
+157,157,tt5439812,Zola,Zola,2020,Drama,USA,English,154
+158,158,tt5792124,What the Night Can Do,What the Night Can Do,2020,Drama,USA,English,125
+159,159,tt5848326,Over-the-Rhine,Over-the-Rhine,2020,Drama,USA,English,105
+160,160,tt6470924,Berlin Alexanderplatz,Berlin Alexanderplatz,2020,Drama,"Germany, Netherlands, France, Canada","German, English",814
+161,161,tt6818118,Jumbo,Jumbo,2020,Drama,"France, Belgium, Luxembourg",French,320
+162,162,tt6857804,Stolen Season,Stolen Season,2020,Drama,Canada,English,716
+163,163,tt7334158,Sulphur and White,Sulphur and White,2020,Drama,UK,English,105
+164,164,tt7397176,Krudttønden,Krudttønden,2020,Drama,Denmark,Danish,193
+165,165,tt7697348,XL: The Temptation of Christ,XL: The Temptation of Christ,2020,Drama,USA,English,126
+166,166,tt7772582,Mai raramente a volte sempre,Never Rarely Sometimes Always,2020,Drama,"UK, USA",English,6245
+167,167,tt7838654,Finding Grace,Finding Grace,2020,Drama,USA,English,100
+168,168,tt7933796,Disclosure,Disclosure,2020,Drama,Australia,English,128
+169,169,tt8042112,Gypsy,Gypsy,2020,Drama,India,Tamil,485
+170,170,tt8045906,Words on Bathroom Walls,Words on Bathroom Walls,2020,Drama,USA,English,225
+171,171,tt8462814,Servants,Servants,2020,Drama,"Slovakia, Romania, Czech Republic, Ireland",Slovak,164
+172,172,tt8472964,Chintu Ka Birthday,Chintu Ka Birthday,2020,Drama,India,"Hindi, English, Arabic",3269
+173,173,tt8506500,Betta Fish,Betta Fish,2020,Drama,USA,English,104
+174,174,tt8526370,Favolacce,Favolacce,2020,Drama,"Italy, Switzerland",Italian,3320
+175,175,tt8540100,Murder RX,Murder RX,2020,Drama,USA,English,101
+176,176,tt8630154,Drive Me to the End,Drive Me to the End,2020,Drama,UK,English,178
+177,177,tt8743262,Békeidõ,Békeidõ,2020,Drama,Hungary,Hungarian,135
+178,178,tt8820348,I Will Make You Mine,I Will Make You Mine,2020,Drama,USA,English,147
+179,179,tt8845322,Todos os Mortos,Todos os Mortos,2020,Drama,"Brazil, France",Portuguese,116
+180,180,tt8892064,Wir,Wir,2020,Drama,Germany,"German, Persian, Arabic",150
+181,181,tt8902948,Tigertail,Tigertail,2020,Drama,USA,"English, Min Nan, Mandarin",2552
+182,182,tt8955708,Exil,Exil,2020,Drama,"Germany, Belgium, Kosovo","German, Albanian",108
+183,183,tt9014656,Narziss und Goldmund,Narziss und Goldmund,2020,Drama,Germany,German,166
+184,184,tt9044650,Bonus,Bonus,2020,Drama,India,Marathi,227
+185,185,tt9048802,Otac,Otac,2020,Drama,"Serbia, France, Germany, Slovenia, Croatia, Bosnia and Herzegovina",Serbian,505
+186,186,tt9179096,Minamata,Minamata,2020,Drama,USA,English,248
+187,187,tt9261218,Il sommelier,Uncorked,2020,Drama,USA,English,3608
+188,188,tt9318772,Fukushima 50,Fukushima 50,2020,Drama,Japan,Japanese,166
+189,189,tt9392248,Gli anni più belli,Gli anni più belli,2020,Drama,Italy,Italian,578
+190,190,tt9411866,The Roads Not Taken,The Roads Not Taken,2020,Drama,"UK, Sweden, USA, Poland, Spain",English,753
+191,191,tt9441638,The Big Ugly,The Big Ugly,2020,Drama,USA,English,528
+192,192,tt9537278,Naadodigal 2,Naadodigal 2,2020,Drama,India,Tamil,132
+193,193,tt9601220,Black Bear,Black Bear,2020,Drama,USA,English,125
+194,194,tt9616700,Adú,Adú,2020,Drama,Spain,"French, English, Spanish",1693
+195,195,tt9701934,Zárójelentés,Zárójelentés,2020,Drama,Hungary,Hungarian,134
+196,196,tt9737798,Platzspitzbaby,Platzspitzbaby,2020,Drama,Switzerland,Swiss German,214
+197,197,tt9738784,Persian Lessons,Persian Lessons,2020,Drama,"Russia, Germany, Belarus","German, French, Persian, English, Italian",110
+198,198,tt9742588,Helene,Helene,2020,Drama,Finland,Finnish,159
+199,199,tt9843470,La isla de las mentiras,La isla de las mentiras,2020,Drama,"Spain, Portugal, Argentina",Spanish,112
+200,200,tt9850050,Charter,Charter,2020,Drama,"Sweden, Norway, Denmark","Swedish, English, Spanish",244
+201,201,tt9890308,Nasir,Nasir,2020,Drama,"India, Netherlands, Singapore",Tamil,214
+202,202,tt9892094,Mogul Mowgli,Mogul Mowgli,2020,Drama,"UK, USA",,143
+203,203,tt5244812,Riding Faith,Riding Faith,2020,Family,USA,English,131
+204,204,tt8976418,Sethum Aayiram Pon,Sethum Aayiram Pon,2020,Family,India,Tamil,208
+205,205,tt9578746,The Adventure of A.R.I.: My Robot Friend,The Adventure of A.R.I.: My Robot Friend,2020,Family,France,English,152
+206,206,tt11617492,Orbius,Orbius,2020,Fantasy,Russia,None,225
+207,207,tt7551824,The Berlin Bride,The Berlin Bride,2020,Fantasy,"USA, Germany",German,151
+208,208,tt10126434,Scare Me,Scare Me,2020,Horror,USA,English,138
+209,209,tt10198072,Don't Let Them In,Don't Let Them In,2020,Horror,UK,English,582
+210,210,tt10419672,Carrion,Carrion,2020,Horror,USA,English,145
+211,211,tt10423074,The Unborn,The Unborn,2020,Horror,USA,English,192
+212,212,tt10674930,Abominable,Abominable,2020,Horror,USA,English,591
+213,213,tt10695464,The Source of Shadows,The Source of Shadows,2020,Horror,USA,English,171
+214,214,tt10740584,Abigail Haunting,Abigail Haunting,2020,Horror,USA,English,398
+215,215,tt10817348,Cupid,Cupid,2020,Horror,USA,English,1142
+216,216,tt10843814,The Candy Witch,The Candy Witch,2020,Horror,,,105
+217,217,tt10952782,Malasaña 32,Malasaña 32,2020,Horror,Spain,Spanish,1178
+218,218,tt11199514,The Haunting of Alcatraz,The Haunting of Alcatraz,2020,Horror,UK,English,111
+219,219,tt11240506,W lesie dzis nie zasnie nikt,W lesie dzis nie zasnie nikt,2020,Horror,Poland,Polish,1214
+220,220,tt11542194,Kaaal,Kaaal,2020,Horror,India,Marathi,486
+221,221,tt11547496,Camp Blood 8: Revelations,Camp Blood 8: Revelations,2020,Horror,USA,English,114
+222,222,tt11650674,Ouija Shark,Ouija Shark,2020,Horror,,English,297
+223,223,tt11743900,Cookie,Cookie,2020,Horror,India,Hindi,146
+224,224,tt11750282,Voces,Voces,2020,Horror,Spain,Spanish,112
+225,225,tt12142012,5G Zombies,5G Zombies,2020,Horror,,English,294
+226,226,tt12158538,Cry Havoc,Cry Havoc,2020,Horror,USA,English,136
+227,227,tt1964995,Penance Lane,Penance Lane,2020,Horror,USA,,828
+228,228,tt3155720,There's No Such Thing as Vampires,There's No Such Thing as Vampires,2020,Horror,USA,English,320
+229,229,tt5759590,Angels Fallen,Angels Fallen,2020,Horror,USA,English,835
+230,230,tt6844138,Coven,Coven,2020,Horror,USA,English,118
+231,231,tt7263040,La Marca del Demonio,La Marca del Demonio,2020,Horror,Mexico,Spanish,1633
+232,232,tt7335796,Behind You,Behind You,2020,Horror,USA,English,870
+233,233,tt7411112,The Clearing,The Clearing,2020,Horror,USA,English,429
+234,234,tt7445682,Star Light,Star Light,2020,Horror,USA,English,151
+235,235,tt8006374,Baba Yaga: Terror of the Dark Forest,Yaga. Koshmar tyomnogo lesa,2020,Horror,Russia,Russian,719
+236,236,tt8090624,The Millennial Killer,The Millennial Killer,2020,Horror,UK,English,183
 237,237,tt8150698,Dead by Dawn,Dead by Dawn,2020,Horror,USA,English,161
-238,238,tt8170358,Green Rush,Green Rush,2020,Thriller,USA,English,143
-239,239,tt8186932,M.O.M.: Mothers of Monsters,M.O.M.: Mothers of Monsters,2020,Thriller,USA,English,642
-240,240,tt8200456,Cindy La Regia,Cindy La Regia,2020,Comedy,Mexico,Spanish,1052
-241,241,tt8241876,5th Borough,5th Borough,2020,Crime,USA,English,1178
-242,242,tt8265146,Ateet,Ateet,2020,Thriller,India,Hindi,159
-243,243,tt8332802,Amulet,Amulet,2020,Horror,"UK, United Arab Emirates",English,1445
-244,244,tt8362228,The Stand at Paxton County,The Stand at Paxton County,2020,Thriller,USA,English,633
-245,245,tt8368512,Ironbark,Ironbark,2020,Thriller,UK,English,103
-246,246,tt8386654,Torn: Dark Bullets,Torn: Dark Bullets,2020,Thriller,Canada,English,483
-247,247,tt8406660,Patients of a Saint,Patients of a Saint,2020,Horror,UK,English,1341
-248,248,tt8426182,A Nun's Curse,A Nun's Curse,2020,Horror,USA,,160
-249,249,tt8430676,Shepard,Shepard,2020,Thriller,USA,,104
-250,250,tt8462814,Servants,Servants,2020,Drama,"Slovakia, Romania, Czech Republic, Ireland",Slovak,164
-251,251,tt8472964,Chintu Ka Birthday,Chintu Ka Birthday,2020,Drama,India,"Hindi, English, Arabic",3269
-252,252,tt8506500,Betta Fish,Betta Fish,2020,Drama,USA,English,104
-253,253,tt8526370,Favolacce,Favolacce,2020,Drama,"Italy, Switzerland",Italian,3320
-254,254,tt8540100,Murder RX,Murder RX,2020,Drama,USA,English,101
-255,255,tt8560172,The Very Excellent Mr. Dundee,The Very Excellent Mr. Dundee,2020,Comedy,"USA, Australia",English,617
-256,256,tt8630154,Drive Me to the End,Drive Me to the End,2020,Drama,UK,English,178
-257,257,tt8633560,Lazy Susan,Lazy Susan,2020,Comedy,USA,English,392
-258,258,tt8743262,Békeidõ,Békeidõ,2020,Drama,Hungary,Hungarian,135
-259,259,tt8774798,100% Wolf,100% Wolf,2020,Animation,Australia,English,298
-260,260,tt8809750,Last Letter,Last Letter,2020,Romance,Japan,Japanese,160
-261,261,tt8810394,The Point of No Return,The Point of No Return,2020,War,UK,,159
-262,262,tt8820348,I Will Make You Mine,I Will Make You Mine,2020,Drama,USA,English,147
-263,263,tt8845322,Todos os Mortos,Todos os Mortos,2020,Drama,"Brazil, France",Portuguese,116
-264,264,tt8892064,Wir,Wir,2020,Drama,Germany,"German, Persian, Arabic",150
-265,265,tt8902948,Tigertail,Tigertail,2020,Drama,USA,"English, Min Nan, Mandarin",2552
-266,266,tt8955708,Exil,Exil,2020,Drama,"Germany, Belgium, Kosovo","German, Albanian",108
-267,267,tt8972556,I Am Vengeance: Retaliation,I Am Vengeance: Retaliation,2020,Action,UK,English,403
-268,268,tt8976418,Sethum Aayiram Pon,Sethum Aayiram Pon,2020,Family,India,Tamil,208
-269,269,tt8976664,My Boyfriend's Meds,My Boyfriend's Meds,2020,Comedy,Mexico,Spanish,289
-270,270,tt8985240,Hotwired in Suburbia,Hotwired in Suburbia,2020,Thriller,Canada,English,188
-271,271,tt9014248,Rebelión de los Godínez,Rebelión de los Godínez,2020,Comedy,Mexico,Spanish,327
-272,272,tt9014656,Narziss und Goldmund,Narziss und Goldmund,2020,Drama,Germany,German,166
-273,273,tt9044650,Bonus,Bonus,2020,Drama,India,Marathi,227
-274,274,tt9048802,Otac,Otac,2020,Drama,"Serbia, France, Germany, Slovenia, Croatia, Bosnia and Herzegovina",Serbian,505
-275,275,tt9059704,An American Pickle,An American Pickle,2020,Comedy,USA,"English, Hebrew",9886
-276,276,tt9179096,Minamata,Minamata,2020,Drama,USA,English,248
-277,277,tt9207700,Made in Italy,Made in Italy,2020,Comedy,"UK, Italy",English,1455
-278,278,tt9208444,Impractical Jokers: The Movie,Impractical Jokers: The Movie,2020,Comedy,USA,English,4105
-279,279,tt9248110,Allagash,Allagash,2020,Thriller,USA,English,720
-280,280,tt9248952,Jawaani Jaaneman,Jawaani Jaaneman,2020,Comedy,India,Hindi,5378
-281,281,tt9261218,Il sommelier,Uncorked,2020,Drama,USA,English,3608
-282,282,tt9302994,Soldier's Heart,Soldier's Heart,2020,Western,USA,English,724
-283,283,tt9303772,Divorce Club,Divorce Club,2020,Comedy,France,French,153
-284,284,tt9318772,Fukushima 50,Fukushima 50,2020,Drama,Japan,Japanese,166
-285,285,tt9347750,The Protector,Final Kill,2020,Action,"USA, Thailand",English,594
-286,286,tt9357288,Doll House,Doll House,2020,Horror,UK,English,185
-287,287,tt9359344,"Ti amo, imbecille","Te quiero, imbécil",2020,Comedy,Spain,Spanish,2215
-288,288,tt9372172,Forte,Forte,2020,Comedy,France,French,330
-289,289,tt9392248,Gli anni più belli,Gli anni più belli,2020,Drama,Italy,Italian,578
-290,290,tt9411866,The Roads Not Taken,The Roads Not Taken,2020,Drama,"UK, Sweden, USA, Poland, Spain",English,753
-291,291,tt9441638,The Big Ugly,The Big Ugly,2020,Drama,USA,English,528
-292,292,tt9537278,Naadodigal 2,Naadodigal 2,2020,Drama,India,Tamil,132
-293,293,tt9568486,Mine de rien,Mine de rien,2020,Comedy,France,French,111
-294,294,tt9578746,The Adventure of A.R.I.: My Robot Friend,The Adventure of A.R.I.: My Robot Friend,2020,Family,France,English,152
-295,295,tt9601220,Black Bear,Black Bear,2020,Drama,USA,English,125
-296,296,tt9612368,An English Haunting,An English Haunting,2020,Horror,UK,English,222
-297,297,tt9616700,Adú,Adú,2020,Drama,Spain,"French, English, Spanish",1693
-298,298,tt9701934,Zárójelentés,Zárójelentés,2020,Drama,Hungary,Hungarian,134
-299,299,tt9737798,Platzspitzbaby,Platzspitzbaby,2020,Drama,Switzerland,Swiss German,214
-300,300,tt9738784,Persian Lessons,Persian Lessons,2020,Drama,"Russia, Germany, Belarus","German, French, Persian, English, Italian",110
-301,301,tt9742588,Helene,Helene,2020,Drama,Finland,Finnish,159
-302,302,tt9749144,Icing on the Cake,Icing on the Cake,2020,Romance,USA,English,134
-303,303,tt9812258,G-Loc,G-Loc,2020,Sci-Fi,UK,English,1012
-304,304,tt9843470,La isla de las mentiras,La isla de las mentiras,2020,Drama,"Spain, Portugal, Argentina",Spanish,112
-305,305,tt9850050,Charter,Charter,2020,Drama,"Sweden, Norway, Denmark","Swedish, English, Spanish",244
-306,306,tt9890308,Nasir,Nasir,2020,Drama,"India, Netherlands, Singapore",Tamil,214
-307,307,tt9892094,Mogul Mowgli,Mogul Mowgli,2020,Drama,"UK, USA",,143
-308,308,tt9904802,Enemy Lines,Enemy Lines,2020,War,UK,"English, Polish, Russian, German",764
-309,309,tt9908390,Le lion,Le lion,2020,Comedy,"France, Belgium",French,398
+238,238,tt8332802,Amulet,Amulet,2020,Horror,"UK, United Arab Emirates",English,1445
+239,239,tt8406660,Patients of a Saint,Patients of a Saint,2020,Horror,UK,English,1341
+240,240,tt8426182,A Nun's Curse,A Nun's Curse,2020,Horror,USA,,160
+241,241,tt9357288,Doll House,Doll House,2020,Horror,UK,English,185
+242,242,tt9612368,An English Haunting,An English Haunting,2020,Horror,UK,English,222
+243,243,tt11449072,Kartoffelsalat 3 - Das Musical,Kartoffelsalat 3 - Das Musical,2020,Musical,Germany,German,2374
+244,244,tt11157218,Valayam,Valayam,2020,Mystery,India,Telugu,104
+245,245,tt10420532,Ask Tesadüfleri Sever 2,Ask Tesadüfleri Sever 2,2020,Romance,Turkey,Turkish,325
+246,246,tt10991188,World Famous Lover,World Famous Lover,2020,Romance,India,Telugu,1433
+247,247,tt11024568,Savaari,Savaari,2020,Romance,India,Telugu,106
+248,248,tt11079540,The Will,The Will,2020,Romance,USA,English,352
+249,249,tt11173106,Sufna,Sufna,2020,Romance,India,Punjabi,1088
+250,250,tt11316854,Gabriel's Inferno,Gabriel's Inferno,2020,Romance,USA,,1561
+251,251,tt11534356,Masallardan Geriye Kalan,Masallardan Geriye Kalan,2020,Romance,Turkey,Turkish,295
+252,252,tt11730940,Bamfaad,Bamfaad,2020,Romance,India,Hindi,1522
+253,253,tt4257940,The Lost Husband,The Lost Husband,2020,Romance,USA,English,2234
+254,254,tt7939428,10 cose da fare prima di lasciarsi,10 Things We Should Do Before We Break Up,2020,Romance,USA,English,486
+255,255,tt8809750,Last Letter,Last Letter,2020,Romance,Japan,Japanese,160
+256,256,tt9749144,Icing on the Cake,Icing on the Cake,2020,Romance,USA,English,134
+257,257,tt11086254,The Alpha Test,The Alpha Test,2020,Sci-Fi,USA,English,257
+258,258,tt11765278,Collision Earth,Collision Earth,2020,Sci-Fi,USA,English,288
+259,259,tt12159766,Trigger Points,Trigger Points,2020,Sci-Fi,UK,English,175
+260,260,tt6409856,Alien Outbreak,Alien Outbreak,2020,Sci-Fi,UK,English,322
+261,261,tt6876854,The Brink,The Brink,2020,Sci-Fi,UK,English,770
+262,262,tt6882604,Archive,Archive,2020,Sci-Fi,"UK, Hungary, USA",English,4804
+263,263,tt7159566,Transference: Escape the Dark,Transference: Escape the Dark,2020,Sci-Fi,Canada,English,273
+264,264,tt8064418,Assassin 33 A.D.,Assassin 33 A.D.,2020,Sci-Fi,USA,English,956
+265,265,tt8134980,Battlefield 2025,Battlefield 2025,2020,Sci-Fi,USA,English,132
+266,266,tt9812258,G-Loc,G-Loc,2020,Sci-Fi,UK,English,1012
+267,267,tt7562334,Lady Driver,Lady Driver,2020,Sport,USA,English,700
+268,268,tt10054876,Zero Distance,Zero Distance,2020,Thriller,Saudi Arabia,Arabic,240
+269,269,tt10101774,The Party Planner,The Party Planner,2020,Thriller,USA,English,143
+270,270,tt10293308,A Killer Next Door,A Killer Next Door,2020,Thriller,UK,English,197
+271,271,tt10332854,Alone,Alone,2020,Thriller,USA,English,514
+272,272,tt10378926,Long Lost Sister,Long Lost Sister,2020,Thriller,USA,English,126
+273,273,tt10461740,The Au Pair,The Au Pair,2020,Thriller,USA,English,113
+274,274,tt10525236,A Daughter's Ordeal,A Daughter's Ordeal,2020,Thriller,USA,English,154
+275,275,tt10529644,Copper Bill,Copper Bill,2020,Thriller,USA,English,112
+276,276,tt10696018,DNA Killer,DNA Killer,2020,Thriller,"Germany, USA",English,101
+277,277,tt10994102,Lies For Rent,Lies For Rent,2020,Thriller,USA,English,111
+278,278,tt11027850,Hacked,Hacked,2020,Thriller,India,Hindi,828
+279,279,tt11041466,Oka Chinna Viramam,Oka Chinna Viramam,2020,Thriller,India,Telugu,248
+280,280,tt11127512,Heartbeat,Heartbeat,2020,Thriller,USA,,939
+281,281,tt11239374,Scumbag,Scumbag,2020,Thriller,Slovakia,Slovak,185
+282,282,tt11634320,Expectant,Expectant,2020,Thriller,USA,English,111
+283,283,tt11922698,Killer Dream Home,Killer Dream Home,2020,Thriller,USA,English,197
+284,284,tt12283788,Sinful,Sinful,2020,Thriller,USA,,1041
+285,285,tt12344428,Law,Law,2020,Thriller,India,Kannada,230
+286,286,tt1929297,Last Moment of Clarity,Last Moment of Clarity,2020,Thriller,USA,English,1233
+287,287,tt2819446,False Colors,False Colors,2020,Thriller,USA,English,143
+288,288,tt5617312,The Bay of Silence,The Bay of Silence,2020,Thriller,UK,"English, French, Italian",768
+289,289,tt5797184,Escape from Pretoria,Escape from Pretoria,2020,Thriller,"UK, Australia, USA, South Africa",English,15305
+290,290,tt5815420,2 Graves in the Desert,2 Graves in the Desert,2020,Thriller,France,English,190
+291,291,tt7535290,Lei è la mia pazzia,Stalker's Prey 2,2020,Thriller,USA,English,150
+292,292,tt7711170,Alone,Alone,2020,Thriller,USA,English,246
+293,293,tt7918240,Ánima,Ánima,2020,Thriller,Mexico,Spanish,205
+294,294,tt7922944,The Mentor,The Mentor,2020,Thriller,USA,English,113
+295,295,tt7996520,Lone Wolf Survival Kit,Lone Wolf Survival Kit,2020,Thriller,USA,,126
+296,296,tt8170358,Green Rush,Green Rush,2020,Thriller,USA,English,143
+297,297,tt8186932,M.O.M.: Mothers of Monsters,M.O.M.: Mothers of Monsters,2020,Thriller,USA,English,642
+298,298,tt8265146,Ateet,Ateet,2020,Thriller,India,Hindi,159
+299,299,tt8362228,The Stand at Paxton County,The Stand at Paxton County,2020,Thriller,USA,English,633
+300,300,tt8368512,Ironbark,Ironbark,2020,Thriller,UK,English,103
+301,301,tt8386654,Torn: Dark Bullets,Torn: Dark Bullets,2020,Thriller,Canada,English,483
+302,302,tt8430676,Shepard,Shepard,2020,Thriller,USA,,104
+303,303,tt8985240,Hotwired in Suburbia,Hotwired in Suburbia,2020,Thriller,Canada,English,188
+304,304,tt9248110,Allagash,Allagash,2020,Thriller,USA,English,720
+305,305,tt7294150,Ba Bai,Ba Bai,2020,War,China,Chinese,387
+306,306,tt8810394,The Point of No Return,The Point of No Return,2020,War,UK,,159
+307,307,tt9904802,Enemy Lines,Enemy Lines,2020,War,UK,"English, Polish, Russian, German",764
+308,308,tt10880084,The Warrant,The Warrant,2020,Western,USA,English,213
+309,309,tt9302994,Soldier's Heart,Soldier's Heart,2020,Western,USA,English,724
