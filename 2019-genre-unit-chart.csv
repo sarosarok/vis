@@ -1,245 +1,116 @@
-id,sub_id,imdb_title_id,title,original_title,year,genre,country,language,votes
-1,1,tt2445568,Outlawed,Outlawed,2018,Action,UK,English,1021
-2,2,tt3616934,"Blood, Sand and Gold","Blood, Sand and Gold",2018,Action,"USA, Hong Kong, Mexico, Morocco, Switzerland, United Arab Emirates",English,411
-3,3,tt5465970,Attrition,Attrition,2018,Action,"Thailand, Hong Kong, UK, USA","English, Mandarin",727
-4,4,tt5471258,Penance,Penance,2018,Action,"Ireland, UK","English, Irish",185
-5,5,tt5855164,Point Man,Point Man,2018,Action,USA,English,352
-6,6,tt5885106,Vengeance,Vengeance,2018,Action,UK,English,1117
-7,7,tt6012244,All the Devil's Men - Squadra speciale,All the Devil's Men,2018,Action,UK,English,2133
-8,8,tt6102104,Ride,Ride,2018,Action,USA,English,105
-9,9,tt6354056,Code Name: Dynastud,Code Name: Dynastud,2018,Action,USA,English,223
-10,10,tt6468814,Touch Chesi Chudu,Touch Chesi Chudu,2018,Action,India,Telugu,591
-11,11,tt6863784,Saamy²,Saamy²,2018,Action,India,Tamil,1124
-12,12,tt6864090,Dead Ringer,Dead Ringer,2018,Action,UK,English,194
-13,13,tt6872436,Sketch,Sketch,2018,Action,India,"Tamil, Telugu",1623
-14,14,tt7155178,Over Drive,Over Drive,2018,Action,Japan,Japanese,236
-15,15,tt7156436,Take Point,Take Point,2018,Action,South Korea,"Korean, English",871
-16,16,tt8826936,Mauli,Mauli,2018,Action,India,Marathi,213
-17,17,tt9021374,The Dragon Unleashed,The Dragon Unleashed,2018,Action,USA,English,217
-18,18,tt9081774,Kuang tu,Kuang tu,2018,Action,Taiwan,Mandarin,212
-19,19,tt9204408,Gong fu lian meng,Gong fu lian meng,2018,Action,Hong Kong,"Cantonese, Mandarin",440
-20,20,tt9221238,Polis Evo 2,Polis Evo 2,2018,Action,Malaysia,Malay,299
-21,21,tt9760934,Villain,Villain,2018,Action,India,Bengali,117
-22,22,tt2463842,Lola+Jeremy,Blockbuster,2018,Comedy,France,French,409
-23,23,tt2531344,Giù le mani dalle nostre figlie,Blockers,2018,Comedy,USA,English,69041
-24,24,tt5619332,Life of the Party - Una mamma al college,Life of the Party,2018,Comedy,USA,English,32014
-25,25,tt5639898,Social Animals,Social Animals,2018,Comedy,USA,English,1590
-26,26,tt5718046,Viaggio con papà - Istruzioni per l'uso,An Actor Prepares,2018,Comedy,USA,English,550
-27,27,tt5724948,Old Boys,Old Boys,2018,Comedy,"UK, Sweden","English, French",929
-28,28,tt5741008,Bully,Bully,2018,Comedy,USA,English,180
-29,29,tt5842616,Veere Di Wedding,Veere Di Wedding,2018,Comedy,India,Hindi,11395
-30,30,tt5848986,You Can't Say No,You Can't Say No,2018,Comedy,USA,English,269
-31,31,tt5866442,Un marito da addestrare,How to Pick Your Second Husband First,2018,Comedy,USA,English,554
-32,32,tt5872472,"Verpiss Dich, Schneewittchen","Verpiss Dich, Schneewittchen",2018,Comedy,Germany,German,228
-33,33,tt5906562,Night Out,Night Out,2018,Comedy,Germany,"English, German",146
-34,34,tt5990956,Finché matrimonio non ci separi,Hasta que la boda nos separe,2018,Comedy,Mexico,Spanish,343
-35,35,tt6038114,Não Se Aceitam Devoluções,Não Se Aceitam Devoluções,2018,Comedy,Brazil,"Portuguese, Spanish, English",112
-36,36,tt6053938,Las leyes de la termodinámica,Las leyes de la termodinámica,2018,Comedy,Spain,"Spanish, English",2338
-37,37,tt6093618,Antiquities,Antiquities,2018,Comedy,USA,English,1322
-38,38,tt6096948,Comme des garçons,Comme des garçons,2018,Comedy,France,"French, Italian, English",460
-39,39,tt6113122,Hurricane Bianca: From Russia with Hate,Hurricane Bianca: From Russia with Hate,2018,Comedy,USA,English,2116
-40,40,tt6131126,Todo Mal,Todo Mal,2018,Comedy,Mexico,Spanish,198
-41,41,tt6149464,30 Nights,30 Nights,2018,Comedy,USA,English,162
-42,42,tt6194704,À 2 heures de Paris,À 2 heures de Paris,2018,Comedy,France,French,123
-43,43,tt6268734,Holly Star,Holly Star,2018,Comedy,USA,English,328
-44,44,tt6268882,Family,Family,2018,Comedy,USA,English,1931
-45,45,tt6781982,La scuola serale,Night School,2018,Comedy,USA,"English, Spanish, French, Arabic",32865
-46,46,tt6821012,Matrimonio a Long Island,The Week Of,2018,Comedy,USA,English,17692
-47,47,tt6831724,El mundo es suyo,El mundo es suyo,2018,Comedy,Spain,Spanish,467
-48,48,tt6832138,Alla ricerca di Teddy,Le doudou,2018,Comedy,France,French,487
-49,49,tt6850766,Electric Love,Electric Love,2018,Comedy,USA,English,234
-50,50,tt6857988,Non sono un uomo facile,Je ne suis pas un homme facile,2018,Comedy,France,French,11563
-51,51,tt6859418,La ch'tite famille,La ch'tite famille,2018,Comedy,France,"French, English",3252
-52,52,tt7256866,Il padre dell'anno,Father of the Year,2018,Comedy,USA,English,9524
-53,53,tt7331414,Safari: Match Me If You Can,Safari: Match Me If You Can,2018,Comedy,Germany,"German, French",139
-54,54,tt7343574,Break,Break,2018,Comedy,"France, Belgium",French,318
-55,55,tt7668842,Enes Batur Hayal mi Gerçek mi?,Enes Batur Hayal mi Gerçek mi?,2018,Comedy,Turkey,Turkish,53649
-56,56,tt7688638,Good Girls Get High,Good Girls Get High,2018,Comedy,USA,English,140
-57,57,tt7692824,Billy,Billy,2018,Comedy,Netherlands,Dutch,380
-58,58,tt7707314,Lionheart,Lionheart,2018,Comedy,Nigeria,"English, Hausa, Ibo",1239
-59,59,tt7714878,Restiamo amici,Restiamo amici,2018,Comedy,Italy,Italian,118
-60,60,tt7715244,Cosa fai a Capodanno?,Cosa fai a Capodanno?,2018,Comedy,Italy,Italian,204
-61,61,tt7730492,Una festa esagerata,Una festa esagerata,2018,Comedy,Italy,Italian,165
-62,62,tt7740284,Charlotte a du fun,Charlotte a du fun,2018,Comedy,Canada,French,483
-63,63,tt8129794,100 Dinge,100 Dinge,2018,Comedy,Germany,"German, English, Finnish",3346
-64,64,tt8158828,"Nu, zdravstvuy, Oksana Sokolova!","Nu, zdravstvuy, Oksana Sokolova!",2018,Comedy,Russia,Russian,141
-65,65,tt8160694,Trabajo Sucio,Trabajo Sucio,2018,Comedy,Dominican Republic,Spanish,196
-66,66,tt8166164,Bee Nest,Bee Nest,2018,Comedy,Iran,Persian,267
-67,67,tt8175968,High Jack,High Jack,2018,Comedy,India,Hindi,280
-68,68,tt8177638,The Good Exorcist,The Good Exorcist,2018,Comedy,USA,English,102
-69,69,tt8183556,Karimi Gördünüz Mü?,Karimi Gördünüz Mü?,2018,Comedy,Turkey,Turkish,239
-70,70,tt8234866,Vechnaya zhizn Aleksandra Khristoforova,Vechnaya zhizn Aleksandra Khristoforova,2018,Comedy,Russia,Russian,130
-71,71,tt8236566,The Dip Run,The Dip Run,2018,Comedy,USA,English,169
-72,72,tt8255490,Surviving Christmas with the Relatives,Surviving Christmas with the Relatives,2018,Comedy,UK,English,505
-73,73,tt8264546,1991,1991,2018,Comedy,Canada,"French, Italian, English, German, Greek, Spanish",589
-74,74,tt8299800,Li Cha de gu ma,Li Cha de gu ma,2018,Comedy,China,Chinese,225
-75,75,tt8338754,Vaibhav Sethia: Don't,Vaibhav Sethia: Don't,2018,Comedy,India,"English, Hindi",164
-76,76,tt8354414,Tonno spiaggiato,Tonno spiaggiato,2018,Comedy,Italy,Italian,288
-77,77,tt8363908,Horndogs Beach Party,Horndogs Beach Party,2018,Comedy,USA,English,102
-78,78,tt8365432,As Zvaigzde,As Zvaigzde,2018,Comedy,Lithuania,Lithuanian,296
-79,79,tt8402090,Cumali Ceber 2,Cumali Ceber 2,2018,Comedy,Turkey,Turkish,8183
-80,80,tt8408848,Más sabe el Diablo por Viejo,Más sabe el Diablo por Viejo,2018,Comedy,"Mexico, USA",Spanish,227
-81,81,tt8409924,Comment tuer sa mère,Comment tuer sa mère,2018,Comedy,France,French,121
-82,82,tt8413714,L'école est finie,L'école est finie,2018,Comedy,"France, Belgium","French, English",338
-83,83,tt8418000,Azraille Dans,Azraille Dans,2018,Comedy,Turkey,Turkish,512
-84,84,tt8435268,Single e disponibile,Soltera Codiciada,2018,Comedy,Peru,Spanish,1679
-85,85,tt8493514,Hedefim Sensin,Hedefim Sensin,2018,Comedy,Turkey,"Turkish, Italian",3336
-86,86,tt8495626,3 vakte kadar,3 vakte kadar,2018,Comedy,Turkey,Turkish,293
-87,87,tt8505540,Mazi ta fagame,Mazi ta fagame,2018,Comedy,Greece,Greek,103
-88,88,tt0069049,L'altra faccia del vento,The Other Side of the Wind,2018,Drama,"France, Iran, USA","English, German",5887
-89,89,tt0427543,A Million Little Pieces,A Million Little Pieces,2018,Drama,USA,English,1551
-90,90,tt10197354,Ikinci pärdä,Ikinci pärdä,2018,Drama,Azerbaijan,Azerbaijani,201
-91,91,tt1127881,Farming,Farming,2018,Drama,"UK, USA, France",English,888
-92,92,tt3892172,Senza lasciare traccia,Leave No Trace,2018,Drama,"USA, Canada",English,47559
-93,93,tt3960820,Land,Land,2018,Drama,"Italy, France, Netherlands, Mexico, Qatar",English,117
-94,94,tt3968088,"Sophie Gold, the Diary of a Gold Digger","Sophie Gold, the Diary of a Gold Digger",2018,Drama,USA,English,107
-95,95,tt4026044,Genezis,Genezis,2018,Drama,Hungary,Hungarian,331
-96,96,tt4037876,Rafaël,Rafaël,2018,Drama,"Netherlands, Belgium, Croatia","English, Dutch, Italian, Arabic",206
-97,97,tt4042818,La mia vita con John F. Donovan,The Death & Life of John F. Donovan,2018,Drama,"UK, Canada","English, Czech",4870
-98,98,tt4180556,Affairs of State - Intrighi di Stato,Affairs of State,2018,Drama,USA,English,747
-99,99,tt4183200,Mafak,Mafak,2018,Drama,"Palestine, USA, Qatar","Arabic, Hebrew",156
-100,100,tt4224754,Tiger,Tiger,2018,Drama,"USA, Canada",English,615
-101,101,tt4286760,Taipei - City of Love,High Resolution,2018,Drama,USA,English,200
-102,102,tt4389006,Fiore gemello,Fiore gemello,2018,Drama,Italy,"Italian, French",164
-103,103,tt4465538,Juveniles,Juveniles,2018,Drama,USA,English,137
-104,104,tt4481066,Giant Little Ones,Giant Little Ones,2018,Drama,Canada,English,5281
-105,105,tt4488744,Un traductor,Un traductor,2018,Drama,"Cuba, Canada","Spanish, Russian",557
-106,106,tt6257174,La diseducazione di Cameron Post,The Miseducation of Cameron Post,2018,Drama,"USA, UK",English,17874
-107,107,tt6258766,Toppen av ingenting,Toppen av ingenting,2018,Drama,"Sweden, UK",Swedish,278
-108,108,tt6263618,Un valzer tra gli scaffali,In den Gängen,2018,Drama,Germany,German,3643
-109,109,tt6415214,Harajuku,Harajuku,2018,Drama,Norway,Norwegian,319
-110,110,tt6421118,Songbird,Songbird,2018,Drama,UK,,441
-111,111,tt6438398,Catacombe,Catacombe,2018,Drama,"Belgium, Netherlands","English, Mandarin, Dutch, Papiamento",342
-112,112,tt6446550,The Parting Glass,The Parting Glass,2018,Drama,USA,English,297
-113,113,tt6456222,Nostalgia,Nostalgia,2018,Drama,USA,English,1010
-114,114,tt6461828,Brakland,Brakland,2018,Drama,"Denmark, Iceland",Danish,140
-115,115,tt6463494,3 Tage in Quiberon,3 Tage in Quiberon,2018,Drama,"Germany, Austria, France, Belgium","German, French, English",1140
-116,116,tt6559390,L'apparizione,L'apparition,2018,Drama,"France, Belgium, Jordan","French, Italian, German, English",1222
-117,117,tt6590856,Pause,Pause,2018,Drama,"Cyprus, Greece","Greek, English",581
-118,118,tt6592296,Hölmö nuori sydän,Hölmö nuori sydän,2018,Drama,"Finland, Netherlands, Sweden","Finnish, Somali",568
-119,119,tt6593240,Mes provinciales,Mes provinciales,2018,Drama,France,French,511
-120,120,tt6596418,Der Unschuldige,Der Unschuldige,2018,Drama,"Switzerland, Germany",Swiss German,185
-121,121,tt6601502,Ray & Liz,Ray & Liz,2018,Drama,UK,English,1213
-122,122,tt6613812,Angrezi Mein Kehte Hain,Angrezi Mein Kehte Hain,2018,Drama,India,Hindi,1024
-123,123,tt6622960,Soratobu taiya,Soratobu taiya,2018,Drama,Japan,Japanese,171
-124,124,tt6622982,Tabineko ripôto,Tabineko ripôto,2018,Drama,Japan,Japanese,312
-125,125,tt6628102,L'albero dei frutti selvatici,Ahlat Agaci,2018,Drama,"Turkey, Republic of North Macedonia, France, Germany, Bosnia and Herzegovina, Bulgaria, Sweden, Qatar",Turkish,18609
-126,126,tt6753132,Chained for Life,Chained for Life,2018,Drama,USA,English,508
-127,127,tt6773126,Tucked,Tucked,2018,Drama,UK,English,438
-128,128,tt6776106,Andið eðlilega,Andið eðlilega,2018,Drama,"Iceland, Sweden, Belgium","Icelandic, English",2162
-129,129,tt6933338,José,José,2018,Drama,"Guatemala, USA",Spanish,409
-130,130,tt6933454,Puzzle,Puzzle,2018,Drama,USA,English,5930
-131,131,tt6952960,Lontano da qui,The Kindergarten Teacher,2018,Drama,"USA, Israel, UK, Canada",English,12343
-132,132,tt6961808,Tutti i ricordi di Claire,La dernière folie de Claire Darling,2018,Drama,France,French,701
-133,133,tt6964554,Kupi menya,Kupi menya,2018,Drama,Russia,Russian,339
-134,134,tt7163824,Teret,Teret,2018,Drama,"Serbia, France, Croatia, Iran, Qatar",Serbian,1227
-135,135,tt7176472,Vierges,Vierges,2018,Drama,"France, Israel, Belgium",Hebrew,183
-136,136,tt7177250,Cowboy & Indiana,Cowboy & Indiana,2018,Drama,USA,English,115
-137,137,tt7184124,Night Comes On,Night Comes On,2018,Drama,USA,English,659
-138,138,tt7191910,Mountain Rest,Mountain Rest,2018,Drama,USA,English,159
-139,139,tt7210264,Yûzai,Yûzai,2018,Drama,Japan,Japanese,132
-140,140,tt7210426,Sauver ou périr,Sauver ou périr,2018,Drama,"France, Belgium",French,983
-141,141,tt7217362,Say Yes,Say Yes,2018,Drama,USA,English,181
-142,142,tt7218334,Cops,Cops,2018,Drama,Austria,German,311
-143,143,tt7227412,Rich Kids,Rich Kids,2018,Drama,USA,"English, Spanish",106
-144,144,tt7491144,Quel giorno d'estate,Amanda,2018,Drama,France,"French, English",1826
-145,145,tt7502234,Les chatouilles,Les chatouilles,2018,Drama,France,French,861
-146,146,tt7504214,AA BB KK,AA BB KK,2018,Drama,India,"Hindi, Marathi, Malayalam",244
-147,147,tt7999960,Xquipi' Guie'dani,Xquipi' Guie'dani,2018,Drama,Mexico,Spanish,122
-148,148,tt8000314,Peledu kalnas,Peledu kalnas,2018,Drama,Lithuania,Lithuanian,556
-149,149,tt8009522,Nome di donna,Nome di donna,2018,Drama,Italy,Italian,310
-150,150,tt8011288,Goli Soda 2,Goli Soda 2,2018,Drama,India,Tamil,646
-151,151,tt8011324,Seethakaathi,Seethakaathi,2018,Drama,India,Tamil,719
-152,152,tt8020896,Da xiang xi di er zuo,Da xiang xi di er zuo,2018,Drama,China,Mandarin,4481
-153,153,tt8026554,Socrates,Socrates,2018,Drama,Brazil,Portuguese,642
-154,154,tt8027322,The Joke Thief,The Joke Thief,2018,Drama,Canada,English,3919
-155,155,tt8029242,Kunju Daivam,Kunju Daivam,2018,Drama,India,Malayalam,240
-156,156,tt8033428,Uma,Uma,2018,Drama,India,Bengali,945
-157,157,tt8766224,Ne Bom Vec Luzerka,Ne Bom Vec Luzerka,2018,Drama,Slovenia,Slovenian,225
-158,158,tt8769528,Dead Horse Nebula,Dead Horse Nebula,2018,Drama,Turkey,Turkish,252
-159,159,tt8784906,Ani... Dr. Kashinath Ghanekar,Ani... Dr. Kashinath Ghanekar,2018,Drama,India,Marathi,705
-160,160,tt8787284,Wach,Wach,2018,Drama,Germany,"German, Polish",163
-161,161,tt8795582,Posledice,Posledice,2018,Drama,"Slovenia, Austria",Slovenian,1366
-162,162,tt8805374,Las hijas del fuego,Las hijas del fuego,2018,Drama,Argentina,Spanish,512
-163,163,tt8822402,Bizi Hatirla,Bizi Hatirla,2018,Drama,Turkey,Turkish,1709
-164,164,tt8824852,Yuva,Yuva,2018,Drama,Turkey,Turkish,185
-165,165,tt8958304,"Iti, Tomari Dhaka","Iti, Tomari Dhaka",2018,Drama,Bangladesh,Bengali,379
-166,166,tt9020894,Vremennye trudnosti,Vremennye trudnosti,2018,Drama,Russia,Russian,471
-167,167,tt3444206,Before Someone Gets Hurt,Before Someone Gets Hurt,2018,Horror,USA,English,295
-168,168,tt3487610,Malevolence 3: Killer,Malevolence 3: Killer,2018,Horror,USA,English,1619
-169,169,tt3692082,The 16th Episode,The 16th Episode,2018,Horror,USA,English,2714
-170,170,tt3894958,Paranormal Demons,Paranormal Demons,2018,Horror,Germany,English,289
-171,171,tt6389802,Mohini,Mohini,2018,Horror,India,Tamil,268
-172,172,tt6423998,Killer Unicorn,Killer Unicorn,2018,Horror,USA,English,134
-173,173,tt6424188,Betsy,Betsy,2018,Horror,USA,English,125
-174,174,tt6524704,Here Be Dragons,Here Be Dragons,2018,Horror,UK,English,174
-175,175,tt6592124,Mandy the Doll,Mandy the Doll,2018,Horror,UK,English,193
-176,176,tt7717990,Alem-i Cin,Alem-i Cin,2018,Horror,Turkey,Turkish,191
-177,177,tt7738930,Üç Harfliler: Beddua,Üç Harfliler: Beddua,2018,Horror,Turkey,Turkish,967
-178,178,tt7819394,Epidemic,Epidemic,2018,Horror,USA,English,190
-179,179,tt7900528,Let's Not Meet,Let's Not Meet,2018,Horror,USA,English,1062
-180,180,tt7906262,Bride of Scarecrow,Bride of Scarecrow,2018,Horror,UK,English,125
-181,181,tt7959500,The Farm,The Farm,2018,Horror,USA,English,1869
-182,182,tt7962932,I'll Take Your Dead,I'll Take Your Dead,2018,Horror,Canada,English,2903
-183,183,tt7966586,Kapalak Kizi,Kapalak Kizi,2018,Horror,Turkey,Turkish,504
-184,184,tt7975674,Reborn,Reborn,2018,Horror,USA,English,406
-185,185,tt7976502,Pari,Pari,2018,Horror,Pakistan,Urdu,133
-186,186,tt7981182,Danur 2: Maddah,Danur 2: Maddah,2018,Horror,Indonesia,Indonesian,354
-187,187,tt8021048,Survive The Hollow Shoals,Survive The Hollow Shoals,2018,Horror,USA,English,250
-188,188,tt8025310,The Odds,The Odds,2018,Horror,USA,English,805
-189,189,tt8113950,Last American Horror Show,Last American Horror Show,2018,Horror,USA,English,292
-190,190,tt9143166,Blood Falls,Blood Falls,2018,Horror,USA,English,100
-191,191,tt9174800,Zong xie,Zong xie,2018,Horror,Taiwan,Mandarin,169
-192,192,tt9213244,Antrum - Il film maledetto,Antrum: The Deadliest Film Ever Made,2018,Horror,Canada,"English, Hungarian, Japanese",1511
-193,193,tt9228892,Singsu,Singsu,2018,Horror,Thailand,Thai,113
-194,194,tt9250156,In a Stranger's House,In a Stranger's House,2018,Horror,Ireland,English,138
-195,195,tt9283056,Ren mian yu: Hong yu xiao nuhai waizhuan,Ren mian yu: Hong yu xiao nuhai waizhuan,2018,Horror,Taiwan,Mandarin,307
-196,196,tt9637246,Midday Demons,Midday Demons,2018,Horror,"Italy, Ireland",English,105
-197,197,tt4114302,Phir Se...,Phir Se...,2018,Romance,India,Hindi,189
-198,198,tt5474036,Manmarziyaan,Manmarziyaan,2018,Romance,India,Hindi,6791
-199,199,tt6106980,In Reality,In Reality,2018,Romance,USA,English,168
-200,200,tt6886062,Cheese in the Trap,Cheese in the Trap,2018,Romance,South Korea,Korean,347
-201,201,tt7231572,Not Cinderella's Type,Not Cinderella's Type,2018,Romance,USA,English,1842
-202,202,tt7239146,Todas as Canções de Amor,Todas as Canções de Amor,2018,Romance,Brazil,Portuguese,170
-203,203,tt7286500,Mamarêdo bôi: Marmalade Boy,Mamarêdo bôi: Marmalade Boy,2018,Romance,Japan,Japanese,210
-204,204,tt7817448,Total Dadagiri,Total Dadagiri,2018,Romance,India,Bengali,134
-205,205,tt7838158,Naa Nuvve,Naa Nuvve,2018,Romance,India,Telugu,136
-206,206,tt8016672,Kamuki,Kamuki,2018,Romance,India,Malayalam,207
-207,207,tt8043092,Sammohanam,Sammohanam,2018,Romance,India,Telugu,1367
-208,208,tt8208098,Pyaar Prema Kaadhal,Pyaar Prema Kaadhal,2018,Romance,India,Tamil,884
-209,209,tt8269204,Ammammagarillu,Ammammagarillu,2018,Romance,India,Telugu,122
-210,210,tt8344532,Tej... I Love You,Tej... I Love You,2018,Romance,India,Telugu,295
-211,211,tt8590992,Paper Boy,Paper Boy,2018,Romance,India,Telugu,225
-212,212,tt8637534,Yanimda Kal,Yanimda Kal,2018,Romance,Turkey,Turkish,300
-213,213,tt8650270,Nannu Dochukunduvate,Nannu Dochukunduvate,2018,Romance,India,Telugu,396
-214,214,tt8674418,24 Kisses,24 Kisses,2018,Romance,India,Telugu,130
-215,215,tt8710128,The Day After Valentine's,The Day After Valentine's,2018,Romance,Philippines,"Filipino, Tagalog",133
-216,216,tt8718066,Kakugo wa ii ka soko no joshi.,Kakugo wa ii ka soko no joshi.,2018,Romance,Japan,Japanese,108
-217,217,tt9081562,Bi bei shang geng bei shang de gu shi,Bi bei shang geng bei shang de gu shi,2018,Romance,Taiwan,Mandarin,833
-218,218,tt9226154,Krymskiy most. Sdelano s lyubovyu!,Krymskiy most. Sdelano s lyubovyu!,2018,Romance,Russia,Russian,849
-219,219,tt4469518,Genesis,Genesis,2018,Sci-Fi,UK,English,898
-220,220,tt4566780,Gray Matter,Gray Matter,2018,Sci-Fi,Canada,English,275
-221,221,tt6179746,The Gateway,The Gateway,2018,Sci-Fi,Australia,English,3869
-222,222,tt6245274,Spider-Man 2: Another World,Spider-Man 2: Another World,2018,Sci-Fi,UK,English,255
-223,223,tt6613878,Clara,Clara,2018,Sci-Fi,"Canada, USA",English,2976
-224,224,tt6945500,Impact Event,Impact Event,2018,Sci-Fi,USA,English,102
-225,225,tt7007846,Shangri-La: Near Extinction,Shangri-La: Near Extinction,2018,Sci-Fi,USA,English,180
-226,226,tt7314630,Black Flowers,Black Flowers,2018,Sci-Fi,UK,,244
-227,227,tt8041916,Time Jumpers,Time Jumpers,2018,Sci-Fi,USA,"English, Danish",494
-228,228,tt8210516,Hover,Hover,2018,Sci-Fi,USA,English,487
-229,229,tt8305690,Alien Expedition,Alien Expedition,2018,Sci-Fi,USA,English,393
-230,230,tt8548792,The Dawnseeker,The Dawnseeker,2018,Sci-Fi,USA,English,2091
-231,231,tt10207850,Per amore di Megan,Killer in Law,2018,Thriller,USA,English,213
-232,232,tt10411954,Hometown Killer,Hometown Killer,2018,Thriller,USA,English,141
-233,233,tt3277446,As Worlds Collide,As Worlds Collide,2018,Thriller,USA,"French, English",199
-234,234,tt3486210,Relentless,Relentless,2018,Thriller,"USA, El Salvador",English,326
-235,235,tt3517306,Welcome to Curiosity,Welcome to Curiosity,2018,Thriller,UK,English,905
-236,236,tt5396646,The Martyr Maker,The Martyr Maker,2018,Thriller,USA,English,117
-237,237,tt5468130,Havana Darkness,Havana Darkness,2018,Thriller,USA,"English, Spanish",494
-238,238,tt5478700,Dagenham,Dagenham,2018,Thriller,UK,English,121
-239,239,tt8084572,Intensive Care,Intensive Care,2018,Thriller,USA,English,163
-240,240,tt8085616,Shohrat the Trap,Shohrat the Trap,2018,Thriller,India,Hindi,101
-241,241,tt8105846,His Perfect Obsession,His Perfect Obsession,2018,Thriller,Canada,English,170
-242,242,tt8145968,Tutto quello che non so di lui,Her Boyfriend's Secret,2018,Thriller,USA,English,223
-243,243,tt9460430,Bagh bandi khela,Bagh bandi khela,2018,Thriller,India,Bengali,159
-244,244,tt9855990,Nightmare Tenant,Nightmare Tenant,2018,Thriller,USA,English,160
+imdb_title_id,title,original_title,year,genre,country,language,votes
+tt2445568,Outlawed,Outlawed,2018,Action,UK,English,1021
+tt3616934,"Blood, Sand and Gold","Blood, Sand and Gold",2018,Action,"USA, Hong Kong, Mexico, Morocco, Switzerland, United Arab Emirates",English,411
+tt5465970,Attrition,Attrition,2018,Action,"Thailand, Hong Kong, UK, USA","English, Mandarin",727
+tt5471258,Penance,Penance,2018,Action,"Ireland, UK","English, Irish",185
+tt5855164,Point Man,Point Man,2018,Action,USA,English,352
+tt5885106,Vengeance,Vengeance,2018,Action,UK,English,1117
+tt6012244,All the Devil's Men - Squadra speciale,All the Devil's Men,2018,Action,UK,English,2133
+tt6102104,Ride,Ride,2018,Action,USA,English,105
+tt6354056,Code Name: Dynastud,Code Name: Dynastud,2018,Action,USA,English,223
+tt6468814,Touch Chesi Chudu,Touch Chesi Chudu,2018,Action,India,Telugu,591
+tt6863784,Saamy²,Saamy²,2018,Action,India,Tamil,1124
+tt6053938,Las leyes de la termodinámica,Las leyes de la termodinámica,2018,Comedy,Spain,"Spanish, English",2338
+tt6093618,Antiquities,Antiquities,2018,Comedy,USA,English,1322
+tt6096948,Comme des garçons,Comme des garçons,2018,Comedy,France,"French, Italian, English",460
+tt6113122,Hurricane Bianca: From Russia with Hate,Hurricane Bianca: From Russia with Hate,2018,Comedy,USA,English,2116
+tt6131126,Todo Mal,Todo Mal,2018,Comedy,Mexico,Spanish,198
+tt6149464,30 Nights,30 Nights,2018,Comedy,USA,English,162
+tt6194704,À 2 heures de Paris,À 2 heures de Paris,2018,Comedy,France,French,123
+tt6268734,Holly Star,Holly Star,2018,Comedy,USA,English,328
+tt6268882,Family,Family,2018,Comedy,USA,English,1931
+tt6781982,La scuola serale,Night School,2018,Comedy,USA,"English, Spanish, French, Arabic",32865
+tt6821012,Matrimonio a Long Island,The Week Of,2018,Comedy,USA,English,17692
+tt6831724,El mundo es suyo,El mundo es suyo,2018,Comedy,Spain,Spanish,467
+tt6832138,Alla ricerca di Teddy,Le doudou,2018,Comedy,France,French,487
+tt6850766,Electric Love,Electric Love,2018,Comedy,USA,English,234
+tt6857988,Non sono un uomo facile,Je ne suis pas un homme facile,2018,Comedy,France,French,11563
+tt6859418,La ch'tite famille,La ch'tite famille,2018,Comedy,France,"French, English",3252
+tt7256866,Il padre dell'anno,Father of the Year,2018,Comedy,USA,English,9524
+tt7331414,Safari: Match Me If You Can,Safari: Match Me If You Can,2018,Comedy,Germany,"German, French",139
+tt7343574,Break,Break,2018,Comedy,"France, Belgium",French,318
+tt7668842,Enes Batur Hayal mi Gerçek mi?,Enes Batur Hayal mi Gerçek mi?,2018,Comedy,Turkey,Turkish,53649
+tt7688638,Good Girls Get High,Good Girls Get High,2018,Comedy,USA,English,140
+tt7692824,Billy,Billy,2018,Comedy,Netherlands,Dutch,380
+tt7707314,Lionheart,Lionheart,2018,Comedy,Nigeria,"English, Hausa, Ibo",1239
+tt7714878,Restiamo amici,Restiamo amici,2018,Comedy,Italy,Italian,118
+tt7715244,Cosa fai a Capodanno?,Cosa fai a Capodanno?,2018,Comedy,Italy,Italian,204
+tt7730492,Una festa esagerata,Una festa esagerata,2018,Comedy,Italy,Italian,165
+tt7740284,Charlotte a du fun,Charlotte a du fun,2018,Comedy,Canada,French,483
+tt8129794,100 Dinge,100 Dinge,2018,Comedy,Germany,"German, English, Finnish",3346
+tt8158828,"Nu, zdravstvuy, Oksana Sokolova!","Nu, zdravstvuy, Oksana Sokolova!",2018,Comedy,Russia,Russian,141
+tt8160694,Trabajo Sucio,Trabajo Sucio,2018,Comedy,Dominican Republic,Spanish,196
+tt8166164,Bee Nest,Bee Nest,2018,Comedy,Iran,Persian,267
+tt6456222,Nostalgia,Nostalgia,2018,Drama,USA,English,1010
+tt6461828,Brakland,Brakland,2018,Drama,"Denmark, Iceland",Danish,140
+tt6463494,3 Tage in Quiberon,3 Tage in Quiberon,2018,Drama,"Germany, Austria, France, Belgium","German, French, English",1140
+tt6559390,L'apparizione,L'apparition,2018,Drama,"France, Belgium, Jordan","French, Italian, German, English",1222
+tt6590856,Pause,Pause,2018,Drama,"Cyprus, Greece","Greek, English",581
+tt6592296,Hölmö nuori sydän,Hölmö nuori sydän,2018,Drama,"Finland, Netherlands, Sweden","Finnish, Somali",568
+tt6593240,Mes provinciales,Mes provinciales,2018,Drama,France,French,511
+tt6596418,Der Unschuldige,Der Unschuldige,2018,Drama,"Switzerland, Germany",Swiss German,185
+tt6601502,Ray & Liz,Ray & Liz,2018,Drama,UK,English,1213
+tt6613812,Angrezi Mein Kehte Hain,Angrezi Mein Kehte Hain,2018,Drama,India,Hindi,1024
+tt6622960,Soratobu taiya,Soratobu taiya,2018,Drama,Japan,Japanese,171
+tt6622982,Tabineko ripôto,Tabineko ripôto,2018,Drama,Japan,Japanese,312
+tt6628102,L'albero dei frutti selvatici,Ahlat Agaci,2018,Drama,"Turkey, Republic of North Macedonia, France, Germany, Bosnia and Herzegovina, Bulgaria, Sweden, Qatar",Turkish,18609
+tt6753132,Chained for Life,Chained for Life,2018,Drama,USA,English,508
+tt6773126,Tucked,Tucked,2018,Drama,UK,English,438
+tt6776106,Andið eðlilega,Andið eðlilega,2018,Drama,"Iceland, Sweden, Belgium","Icelandic, English",2162
+tt6933338,José,José,2018,Drama,"Guatemala, USA",Spanish,409
+tt6933454,Puzzle,Puzzle,2018,Drama,USA,English,5930
+tt6952960,Lontano da qui,The Kindergarten Teacher,2018,Drama,"USA, Israel, UK, Canada",English,12343
+tt6961808,Tutti i ricordi di Claire,La dernière folie de Claire Darling,2018,Drama,France,French,701
+tt6964554,Kupi menya,Kupi menya,2018,Drama,Russia,Russian,339
+tt7163824,Teret,Teret,2018,Drama,"Serbia, France, Croatia, Iran, Qatar",Serbian,1227
+tt7176472,Vierges,Vierges,2018,Drama,"France, Israel, Belgium",Hebrew,183
+tt7177250,Cowboy & Indiana,Cowboy & Indiana,2018,Drama,USA,English,115
+tt7184124,Night Comes On,Night Comes On,2018,Drama,USA,English,659
+tt7191910,Mountain Rest,Mountain Rest,2018,Drama,USA,English,159
+tt8009522,Nome di donna,Nome di donna,2018,Drama,Italy,Italian,310
+tt8011288,Goli Soda 2,Goli Soda 2,2018,Drama,India,Tamil,646
+tt8011324,Seethakaathi,Seethakaathi,2018,Drama,India,Tamil,719
+tt8029242,Kunju Daivam,Kunju Daivam,2018,Drama,India,Malayalam,240
+tt8033428,Uma,Uma,2018,Drama,India,Bengali,945
+tt8766224,Ne Bom Vec Luzerka,Ne Bom Vec Luzerka,2018,Drama,Slovenia,Slovenian,225
+tt7906262,Bride of Scarecrow,Bride of Scarecrow,2018,Horror,UK,English,125
+tt7959500,The Farm,The Farm,2018,Horror,USA,English,1869
+tt7962932,I'll Take Your Dead,I'll Take Your Dead,2018,Horror,Canada,English,2903
+tt7966586,Kapalak Kizi,Kapalak Kizi,2018,Horror,Turkey,Turkish,504
+tt7975674,Reborn,Reborn,2018,Horror,USA,English,406
+tt7976502,Pari,Pari,2018,Horror,Pakistan,Urdu,133
+tt7981182,Danur 2: Maddah,Danur 2: Maddah,2018,Horror,Indonesia,Indonesian,354
+tt8021048,Survive The Hollow Shoals,Survive The Hollow Shoals,2018,Horror,USA,English,250
+tt8025310,The Odds,The Odds,2018,Horror,USA,English,805
+tt8113950,Last American Horror Show,Last American Horror Show,2018,Horror,USA,English,292
+tt9143166,Blood Falls,Blood Falls,2018,Horror,USA,English,100
+tt9174800,Zong xie,Zong xie,2018,Horror,Taiwan,Mandarin,169
+tt9213244,Antrum - Il film maledetto,Antrum: The Deadliest Film Ever Made,2018,Horror,Canada,"English, Hungarian, Japanese",1511
+tt9228892,Singsu,Singsu,2018,Horror,Thailand,Thai,113
+tt9250156,In a Stranger's House,In a Stranger's House,2018,Horror,Ireland,English,138
+tt7231572,Not Cinderella's Type,Not Cinderella's Type,2018,Romance,USA,English,1842
+tt8590992,Paper Boy,Paper Boy,2018,Romance,India,Telugu,225
+tt8637534,Yanimda Kal,Yanimda Kal,2018,Romance,Turkey,Turkish,300
+tt8650270,Nannu Dochukunduvate,Nannu Dochukunduvate,2018,Romance,India,Telugu,396
+tt8674418,24 Kisses,24 Kisses,2018,Romance,India,Telugu,130
+tt8710128,The Day After Valentine's,The Day After Valentine's,2018,Romance,Philippines,"Filipino, Tagalog",133
+tt8718066,Kakugo wa ii ka soko no joshi.,Kakugo wa ii ka soko no joshi.,2018,Romance,Japan,Japanese,108
+tt9081562,Bi bei shang geng bei shang de gu shi,Bi bei shang geng bei shang de gu shi,2018,Romance,Taiwan,Mandarin,833
+tt9226154,Krymskiy most. Sdelano s lyubovyu!,Krymskiy most. Sdelano s lyubovyu!,2018,Romance,Russia,Russian,849
+tt4469518,Genesis,Genesis,2018,Sci-Fi,UK,English,898
+tt4566780,Gray Matter,Gray Matter,2018,Sci-Fi,Canada,English,275
+tt6179746,The Gateway,The Gateway,2018,Sci-Fi,Australia,English,3869
+tt6245274,Spider-Man 2: Another World,Spider-Man 2: Another World,2018,Sci-Fi,UK,English,255
+tt6613878,Clara,Clara,2018,Sci-Fi,"Canada, USA",English,2976
+tt6945500,Impact Event,Impact Event,2018,Sci-Fi,USA,English,102
+tt8210516,Hover,Hover,2018,Sci-Fi,USA,English,487
+tt3517306,Welcome to Curiosity,Welcome to Curiosity,2018,Thriller,UK,English,905
+tt5396646,The Martyr Maker,The Martyr Maker,2018,Thriller,USA,English,117
+tt5468130,Havana Darkness,Havana Darkness,2018,Thriller,USA,"English, Spanish",494
+tt5478700,Dagenham,Dagenham,2018,Thriller,UK,English,121
+tt8084572,Intensive Care,Intensive Care,2018,Thriller,USA,English,163
+tt8085616,Shohrat the Trap,Shohrat the Trap,2018,Thriller,India,Hindi,101
+tt8105846,His Perfect Obsession,His Perfect Obsession,2018,Thriller,Canada,English,170
+tt8145968,Tutto quello che non so di lui,Her Boyfriend's Secret,2018,Thriller,USA,English,223
+tt9460430,Bagh bandi khela,Bagh bandi khela,2018,Thriller,India,Bengali,159
+tt9855990,Nightmare Tenant,Nightmare Tenant,2018,Thriller,USA,English,160
